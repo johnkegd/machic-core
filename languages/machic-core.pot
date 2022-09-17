@@ -1,0 +1,3583 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Machic Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-04 11:10+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: KlbTheme <klbtheme@gmail.com>\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: tr_TR\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;esc_html__;esc_html_e;"
+"esc_attr__;esc_attr_e;_n:1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"\n"
+"X-Loco-Parser: loco_parse_po"
+
+#: ../init.php:40
+msgid "Set a Template"
+msgstr ""
+
+#: ../init.php:47
+msgid "No template exist."
+msgstr ""
+
+#: ../machic-core.php:196 ../machic-core.php:336 ../machic-core.php:359 
+#: ../machic-core.php:383
+msgid "Machic Core"
+msgstr ""
+
+#: ../machic-core.php:335
+#, php-format
+msgid "%1$s requires %2$s to be installed and activated."
+msgstr ""
+
+#: ../machic-core.php:337 ../machic-core.php:360
+msgid "Elementor"
+msgstr ""
+
+#: ../machic-core.php:358 ../machic-core.php:382
+#, php-format
+msgid "%1$s requires %2$s version %3$s or greater."
+msgstr ""
+
+#: ../machic-core.php:384
+msgid "PHP"
+msgstr ""
+
+#: ../elementor/classes/class-customizing-page-settings.php:1
+msgid "Sidebar Collapse"
+msgstr ""
+
+#: ../elementor/classes/class-customizing-page-settings.php:1 
+#: ../elementor/widgets/machic-icon-box.php:35 
+#: ../elementor/widgets/machic-icon-list.php:37
+msgid "Yes"
+msgstr ""
+
+#: ../elementor/classes/class-customizing-page-settings.php:1 
+#: ../elementor/widgets/machic-icon-box.php:36 
+#: ../elementor/widgets/machic-icon-list.php:38
+msgid "No"
+msgstr ""
+
+#: ../elementor/classes/class-customizing-page-settings.php:1
+msgid "Hide Header"
+msgstr ""
+
+#: ../elementor/classes/class-customizing-page-settings.php:1 
+#: ../inc/customizer.php:278
+msgid "Header Type"
+msgstr ""
+
+#: ../elementor/classes/class-customizing-page-settings.php:1
+msgid "Select a type"
+msgstr ""
+
+#: ../elementor/classes/class-customizing-page-settings.php:1 
+#: ../elementor/widgets/machic-banner-box.php:37 
+#: ../elementor/widgets/machic-banner-box2.php:37 
+#: ../elementor/widgets/machic-custom-title.php:37 
+#: ../elementor/widgets/machic-home-slider.php:37 
+#: ../elementor/widgets/machic-product-carousel.php:38 
+#: ../elementor/widgets/machic-product-grid.php:38 
+#: ../elementor/widgets/machic-product-grid2.php:38 ../inc/customizer.php:283 
+#: ../inc/customizer.php:2114
+msgid "Type 1"
+msgstr ""
+
+#: ../elementor/classes/class-customizing-page-settings.php:1 
+#: ../elementor/widgets/machic-banner-box.php:38 
+#: ../elementor/widgets/machic-banner-box2.php:38 
+#: ../elementor/widgets/machic-custom-title.php:38 
+#: ../elementor/widgets/machic-home-slider.php:38 
+#: ../elementor/widgets/machic-product-carousel.php:39 
+#: ../elementor/widgets/machic-product-grid.php:39 
+#: ../elementor/widgets/machic-product-grid2.php:39 ../inc/customizer.php:284 
+#: ../inc/customizer.php:2115
+msgid "Type 2"
+msgstr ""
+
+#: ../elementor/classes/class-customizing-page-settings.php:1 
+#: ../elementor/widgets/machic-banner-box.php:39 
+#: ../elementor/widgets/machic-custom-title.php:39 
+#: ../elementor/widgets/machic-product-carousel.php:40 
+#: ../elementor/widgets/machic-product-grid.php:40 
+#: ../elementor/widgets/machic-product-grid2.php:40 ../inc/customizer.php:285 
+#: ../inc/customizer.php:2116
+msgid "Type 3"
+msgstr ""
+
+#: ../elementor/classes/class-customizing-page-settings.php:1 
+#: ../elementor/widgets/machic-banner-box.php:40 
+#: ../elementor/widgets/machic-product-carousel.php:41 
+#: ../elementor/widgets/machic-product-grid.php:41 
+#: ../elementor/widgets/machic-product-grid2.php:41 ../inc/customizer.php:286 
+#: ../inc/customizer.php:2117
+msgid "Type 4"
+msgstr ""
+
+#: ../elementor/classes/class-customizing-page-settings.php:1
+msgid "Hide Footer"
+msgstr ""
+
+#: ../elementor/classes/class-customizing-page-settings.php:1
+msgid "Set Logo"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:1
+msgid "Settings"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:1
+msgid "Arrow Type"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:1 
+#: ../elementor/widgets/machic-banner-box.php:36 
+#: ../elementor/widgets/machic-banner-box2.php:36 
+#: ../elementor/widgets/machic-custom-title.php:36 
+#: ../elementor/widgets/machic-home-slider.php:36 
+#: ../elementor/widgets/machic-product-carousel.php:37 
+#: ../elementor/widgets/machic-product-grid.php:37 
+#: ../elementor/widgets/machic-product-grid2.php:37 ../inc/customizer.php:2297
+msgid "Select Type"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:1
+msgid "Nav Style 1"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:1
+msgid "Nav Style 2"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:1
+msgid "Nav Style 3"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:1
+msgid "Nav Style 4"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:1
+msgid "Nav Style 5"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:1
+msgid "Query"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:1
+msgid "Exclude"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:1 
+#: ../elementor/widgets/machic-category-banner.php:92 
+#: ../elementor/widgets/machic-category-banner2.php:92 
+#: ../elementor/widgets/machic-category-banner3.php:63 
+#: ../elementor/widgets/machic-counter-product.php:44 
+#: ../elementor/widgets/machic-counter-product2.php:44 
+#: ../elementor/widgets/machic-deals-product.php:63 
+#: ../elementor/widgets/machic-product-carousel.php:151 
+#: ../elementor/widgets/machic-product-grid.php:119 
+#: ../elementor/widgets/machic-product-grid2.php:119 
+#: ../elementor/widgets/machic-product-list.php:44 
+#: ../elementor/widgets/machic-product-list2.php:115
+msgid "Posts Per Page"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:1
+msgid "Offset"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:1 
+#: ../elementor/widgets/machic-category-banner.php:137 
+#: ../elementor/widgets/machic-category-banner2.php:137 
+#: ../elementor/widgets/machic-category-banner3.php:108 
+#: ../elementor/widgets/machic-counter-product.php:89 
+#: ../elementor/widgets/machic-counter-product2.php:89 
+#: ../elementor/widgets/machic-deals-product.php:108 
+#: ../elementor/widgets/machic-product-carousel.php:196 
+#: ../elementor/widgets/machic-product-categories.php:97 
+#: ../elementor/widgets/machic-product-grid.php:164 
+#: ../elementor/widgets/machic-product-grid2.php:164 
+#: ../elementor/widgets/machic-product-list.php:89 
+#: ../elementor/widgets/machic-product-list2.php:160
+msgid "Order By"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:1
+msgid "Order"
+msgstr ""
+
+#: ../elementor/widgets/machic-address-box.php:25 
+#: ../elementor/widgets/machic-banner-box.php:25 
+#: ../elementor/widgets/machic-banner-box2.php:25 
+#: ../elementor/widgets/machic-banner-box3.php:25 
+#: ../elementor/widgets/machic-category-banner.php:26 
+#: ../elementor/widgets/machic-category-banner.php:259 
+#: ../elementor/widgets/machic-category-banner2.php:26 
+#: ../elementor/widgets/machic-category-banner2.php:259 
+#: ../elementor/widgets/machic-category-banner3.php:26 
+#: ../elementor/widgets/machic-category-banner3.php:230 
+#: ../elementor/widgets/machic-clients-box.php:25 
+#: ../elementor/widgets/machic-counter-product.php:26 
+#: ../elementor/widgets/machic-counter-product.php:141 
+#: ../elementor/widgets/machic-counter-product2.php:26 
+#: ../elementor/widgets/machic-counter-product2.php:141 
+#: ../elementor/widgets/machic-counter.php:25 
+#: ../elementor/widgets/machic-custom-title.php:25 
+#: ../elementor/widgets/machic-deals-product.php:26 
+#: ../elementor/widgets/machic-home-slider.php:25 
+#: ../elementor/widgets/machic-icon-box.php:25 
+#: ../elementor/widgets/machic-icon-list.php:25 
+#: ../elementor/widgets/machic-product-carousel.php:26 
+#: ../elementor/widgets/machic-product-categories.php:26 
+#: ../elementor/widgets/machic-product-categories.php:116 
+#: ../elementor/widgets/machic-product-grid.php:26 
+#: ../elementor/widgets/machic-product-grid2.php:26 
+#: ../elementor/widgets/machic-product-list.php:26 
+#: ../elementor/widgets/machic-product-list2.php:26 
+#: ../elementor/widgets/machic-product-list2.php:223 
+#: ../elementor/widgets/machic-text-banner.php:25 
+#: ../elementor/widgets/machic-text-banner2.php:25 
+#: ../elementor/widgets/machic-text-block.php:25 
+#: ../elementor/widgets/machic-vendor-grid.php:25
+msgid "Content"
+msgstr ""
+
+#: ../elementor/widgets/machic-address-box.php:32
+msgid "Country"
+msgstr ""
+
+#: ../elementor/widgets/machic-address-box.php:41
+msgid "Country Subtitle"
+msgstr ""
+
+#: ../elementor/widgets/machic-address-box.php:50
+msgid "Address"
+msgstr ""
+
+#: ../elementor/widgets/machic-address-box.php:59
+msgid "phone"
+msgstr ""
+
+#: ../elementor/widgets/machic-address-box.php:68
+msgid "Email"
+msgstr ""
+
+#: ../elementor/widgets/machic-address-box.php:81 
+#: ../elementor/widgets/machic-banner-box.php:112 
+#: ../elementor/widgets/machic-banner-box2.php:118 
+#: ../elementor/widgets/machic-banner-box3.php:96 
+#: ../elementor/widgets/machic-clients-box.php:91 
+#: ../elementor/widgets/machic-counter.php:65 
+#: ../elementor/widgets/machic-custom-title.php:100 
+#: ../elementor/widgets/machic-deals-product.php:127 
+#: ../elementor/widgets/machic-home-slider.php:199 
+#: ../elementor/widgets/machic-product-grid.php:271 
+#: ../elementor/widgets/machic-product-list.php:141 
+#: ../elementor/widgets/machic-text-banner.php:75 
+#: ../elementor/widgets/machic-text-banner2.php:94 
+#: ../elementor/widgets/machic-text-block.php:56
+msgid "Style"
+msgstr ""
+
+#: ../elementor/widgets/machic-address-box.php:88 
+#: ../elementor/widgets/machic-banner-box.php:128 
+#: ../elementor/widgets/machic-banner-box2.php:134 
+#: ../elementor/widgets/machic-banner-box3.php:112 
+#: ../elementor/widgets/machic-category-banner.php:515 
+#: ../elementor/widgets/machic-category-banner2.php:515 
+#: ../elementor/widgets/machic-category-banner3.php:373 
+#: ../elementor/widgets/machic-contact-form-7.php:185 
+#: ../elementor/widgets/machic-counter-product.php:156 
+#: ../elementor/widgets/machic-counter-product2.php:156 
+#: ../elementor/widgets/machic-custom-title.php:107 
+#: ../elementor/widgets/machic-home-slider.php:215 
+#: ../elementor/widgets/machic-product-list.php:156 
+#: ../elementor/widgets/machic-text-block.php:63
+msgid "Alignment"
+msgstr ""
+
+#: ../elementor/widgets/machic-address-box.php:93 
+#: ../elementor/widgets/machic-banner-box.php:133 
+#: ../elementor/widgets/machic-banner-box2.php:139 
+#: ../elementor/widgets/machic-banner-box3.php:117 
+#: ../elementor/widgets/machic-category-banner.php:520 
+#: ../elementor/widgets/machic-category-banner2.php:520 
+#: ../elementor/widgets/machic-category-banner3.php:378 
+#: ../elementor/widgets/machic-contact-form-7.php:190 
+#: ../elementor/widgets/machic-counter-product.php:161 
+#: ../elementor/widgets/machic-counter-product2.php:161 
+#: ../elementor/widgets/machic-custom-title.php:112 
+#: ../elementor/widgets/machic-home-slider.php:220 
+#: ../elementor/widgets/machic-product-list.php:161 
+#: ../elementor/widgets/machic-text-block.php:68
+msgid "Left"
+msgstr ""
+
+#: ../elementor/widgets/machic-address-box.php:97 
+#: ../elementor/widgets/machic-banner-box.php:137 
+#: ../elementor/widgets/machic-banner-box2.php:143 
+#: ../elementor/widgets/machic-banner-box3.php:121 
+#: ../elementor/widgets/machic-category-banner.php:524 
+#: ../elementor/widgets/machic-category-banner2.php:524 
+#: ../elementor/widgets/machic-category-banner3.php:382 
+#: ../elementor/widgets/machic-contact-form-7.php:194 
+#: ../elementor/widgets/machic-counter-product.php:165 
+#: ../elementor/widgets/machic-counter-product2.php:165 
+#: ../elementor/widgets/machic-custom-title.php:116 
+#: ../elementor/widgets/machic-home-slider.php:224 
+#: ../elementor/widgets/machic-product-list.php:165 
+#: ../elementor/widgets/machic-text-block.php:72
+msgid "Center"
+msgstr ""
+
+#: ../elementor/widgets/machic-address-box.php:101 
+#: ../elementor/widgets/machic-banner-box.php:141 
+#: ../elementor/widgets/machic-banner-box2.php:147 
+#: ../elementor/widgets/machic-banner-box3.php:125 
+#: ../elementor/widgets/machic-category-banner.php:528 
+#: ../elementor/widgets/machic-category-banner2.php:528 
+#: ../elementor/widgets/machic-category-banner3.php:386 
+#: ../elementor/widgets/machic-contact-form-7.php:198 
+#: ../elementor/widgets/machic-counter-product.php:169 
+#: ../elementor/widgets/machic-counter-product2.php:169 
+#: ../elementor/widgets/machic-custom-title.php:120 
+#: ../elementor/widgets/machic-home-slider.php:228 
+#: ../elementor/widgets/machic-product-list.php:169 
+#: ../elementor/widgets/machic-text-block.php:76
+msgid "Right"
+msgstr ""
+
+#: ../elementor/widgets/machic-address-box.php:112
+msgid "COUNTRY"
+msgstr ""
+
+#: ../elementor/widgets/machic-address-box.php:120
+msgid "Country Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-address-box.php:129
+msgid "Country Hover Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-address-box.php:138 
+#: ../elementor/widgets/machic-address-box.php:195 
+#: ../elementor/widgets/machic-address-box.php:252 
+#: ../elementor/widgets/machic-address-box.php:309 
+#: ../elementor/widgets/machic-address-box.php:355 
+#: ../elementor/widgets/machic-banner-box.php:186 
+#: ../elementor/widgets/machic-banner-box.php:234 
+#: ../elementor/widgets/machic-banner-box.php:291 
+#: ../elementor/widgets/machic-banner-box.php:353 
+#: ../elementor/widgets/machic-banner-box2.php:192 
+#: ../elementor/widgets/machic-banner-box2.php:240 
+#: ../elementor/widgets/machic-banner-box2.php:287 
+#: ../elementor/widgets/machic-banner-box2.php:346 
+#: ../elementor/widgets/machic-banner-box2.php:395 
+#: ../elementor/widgets/machic-banner-box3.php:170 
+#: ../elementor/widgets/machic-banner-box3.php:219 
+#: ../elementor/widgets/machic-banner-box3.php:267 
+#: ../elementor/widgets/machic-banner-box3.php:324 
+#: ../elementor/widgets/machic-banner-box3.php:386 
+#: ../elementor/widgets/machic-category-banner.php:292 
+#: ../elementor/widgets/machic-category-banner.php:349 
+#: ../elementor/widgets/machic-category-banner.php:405 
+#: ../elementor/widgets/machic-category-banner.php:462 
+#: ../elementor/widgets/machic-category-banner.php:572 
+#: ../elementor/widgets/machic-category-banner.php:620 
+#: ../elementor/widgets/machic-category-banner.php:667 
+#: ../elementor/widgets/machic-category-banner.php:729 
+#: ../elementor/widgets/machic-category-banner2.php:292 
+#: ../elementor/widgets/machic-category-banner2.php:349 
+#: ../elementor/widgets/machic-category-banner2.php:405 
+#: ../elementor/widgets/machic-category-banner2.php:462 
+#: ../elementor/widgets/machic-category-banner2.php:572 
+#: ../elementor/widgets/machic-category-banner2.php:620 
+#: ../elementor/widgets/machic-category-banner2.php:667 
+#: ../elementor/widgets/machic-category-banner2.php:729 
+#: ../elementor/widgets/machic-category-banner3.php:263 
+#: ../elementor/widgets/machic-category-banner3.php:320 
+#: ../elementor/widgets/machic-category-banner3.php:430 
+#: ../elementor/widgets/machic-category-banner3.php:478 
+#: ../elementor/widgets/machic-category-banner3.php:525 
+#: ../elementor/widgets/machic-category-banner3.php:587 
+#: ../elementor/widgets/machic-clients-box.php:98 
+#: ../elementor/widgets/machic-contact-form-7.php:97 
+#: ../elementor/widgets/machic-contact-form-7.php:154 
+#: ../elementor/widgets/machic-contact-form-7.php:242 
+#: ../elementor/widgets/machic-contact-form-7.php:261 
+#: ../elementor/widgets/machic-contact-form-7.php:280 
+#: ../elementor/widgets/machic-contact-form-7.php:335 
+#: ../elementor/widgets/machic-contact-form-7.php:354 
+#: ../elementor/widgets/machic-counter-product.php:198 
+#: ../elementor/widgets/machic-counter-product2.php:198 
+#: ../elementor/widgets/machic-counter.php:116 
+#: ../elementor/widgets/machic-counter.php:216 
+#: ../elementor/widgets/machic-custom-title.php:158 
+#: ../elementor/widgets/machic-custom-title.php:218 
+#: ../elementor/widgets/machic-custom-title.php:281 
+#: ../elementor/widgets/machic-custom-title.php:343 
+#: ../elementor/widgets/machic-deals-product.php:160 
+#: ../elementor/widgets/machic-deals-product.php:217 
+#: ../elementor/widgets/machic-home-slider.php:299 
+#: ../elementor/widgets/machic-home-slider.php:356 
+#: ../elementor/widgets/machic-home-slider.php:413 
+#: ../elementor/widgets/machic-home-slider.php:487 
+#: ../elementor/widgets/machic-home-slider.php:708 
+#: ../elementor/widgets/machic-icon-box.php:140 
+#: ../elementor/widgets/machic-icon-box.php:179 
+#: ../elementor/widgets/machic-icon-box.php:236 
+#: ../elementor/widgets/machic-icon-list.php:164 
+#: ../elementor/widgets/machic-icon-list.php:203 
+#: ../elementor/widgets/machic-icon-list.php:260 
+#: ../elementor/widgets/machic-product-categories.php:149 
+#: ../elementor/widgets/machic-product-categories.php:206 
+#: ../elementor/widgets/machic-product-categories.php:263 
+#: ../elementor/widgets/machic-product-grid.php:304 
+#: ../elementor/widgets/machic-product-grid.php:361 
+#: ../elementor/widgets/machic-product-grid.php:417 
+#: ../elementor/widgets/machic-product-list.php:198 
+#: ../elementor/widgets/machic-product-list.php:255 
+#: ../elementor/widgets/machic-product-list.php:315 
+#: ../elementor/widgets/machic-product-list.php:364 
+#: ../elementor/widgets/machic-product-list2.php:256 
+#: ../elementor/widgets/machic-product-list2.php:313 
+#: ../elementor/widgets/machic-text-banner.php:108 
+#: ../elementor/widgets/machic-text-banner.php:156 
+#: ../elementor/widgets/machic-text-banner.php:213 
+#: ../elementor/widgets/machic-text-banner.php:243 
+#: ../elementor/widgets/machic-text-banner2.php:172 
+#: ../elementor/widgets/machic-text-banner2.php:229 
+#: ../elementor/widgets/machic-text-banner2.php:285 
+#: ../elementor/widgets/machic-text-banner2.php:383 
+#: ../elementor/widgets/machic-text-block.php:122 
+#: ../elementor/widgets/machic-text-block.php:179
+msgid "Opacity"
+msgstr ""
+
+#: ../elementor/widgets/machic-address-box.php:160 
+#: ../elementor/widgets/machic-address-box.php:217 
+#: ../elementor/widgets/machic-address-box.php:274 
+#: ../elementor/widgets/machic-address-box.php:377 
+#: ../elementor/widgets/machic-banner-box.php:208 
+#: ../elementor/widgets/machic-banner-box.php:256 
+#: ../elementor/widgets/machic-banner-box.php:313 
+#: ../elementor/widgets/machic-banner-box.php:345 
+#: ../elementor/widgets/machic-banner-box2.php:214 
+#: ../elementor/widgets/machic-banner-box2.php:262 
+#: ../elementor/widgets/machic-banner-box2.php:309 
+#: ../elementor/widgets/machic-banner-box3.php:192 
+#: ../elementor/widgets/machic-banner-box3.php:241 
+#: ../elementor/widgets/machic-banner-box3.php:289 
+#: ../elementor/widgets/machic-banner-box3.php:346 
+#: ../elementor/widgets/machic-banner-box3.php:378 
+#: ../elementor/widgets/machic-category-banner.php:314 
+#: ../elementor/widgets/machic-category-banner.php:371 
+#: ../elementor/widgets/machic-category-banner.php:427 
+#: ../elementor/widgets/machic-category-banner.php:484 
+#: ../elementor/widgets/machic-category-banner.php:594 
+#: ../elementor/widgets/machic-category-banner.php:642 
+#: ../elementor/widgets/machic-category-banner.php:689 
+#: ../elementor/widgets/machic-category-banner.php:721 
+#: ../elementor/widgets/machic-category-banner2.php:314 
+#: ../elementor/widgets/machic-category-banner2.php:371 
+#: ../elementor/widgets/machic-category-banner2.php:427 
+#: ../elementor/widgets/machic-category-banner2.php:484 
+#: ../elementor/widgets/machic-category-banner2.php:594 
+#: ../elementor/widgets/machic-category-banner2.php:642 
+#: ../elementor/widgets/machic-category-banner2.php:689 
+#: ../elementor/widgets/machic-category-banner2.php:721 
+#: ../elementor/widgets/machic-category-banner3.php:285 
+#: ../elementor/widgets/machic-category-banner3.php:342 
+#: ../elementor/widgets/machic-category-banner3.php:452 
+#: ../elementor/widgets/machic-category-banner3.php:500 
+#: ../elementor/widgets/machic-category-banner3.php:547 
+#: ../elementor/widgets/machic-category-banner3.php:579 
+#: ../elementor/widgets/machic-contact-form-7.php:119 
+#: ../elementor/widgets/machic-contact-form-7.php:176 
+#: ../elementor/widgets/machic-counter-product.php:220 
+#: ../elementor/widgets/machic-counter-product2.php:220 
+#: ../elementor/widgets/machic-counter.php:138 
+#: ../elementor/widgets/machic-counter.php:238 
+#: ../elementor/widgets/machic-custom-title.php:180 
+#: ../elementor/widgets/machic-custom-title.php:242 
+#: ../elementor/widgets/machic-custom-title.php:305 
+#: ../elementor/widgets/machic-custom-title.php:367 
+#: ../elementor/widgets/machic-deals-product.php:182 
+#: ../elementor/widgets/machic-deals-product.php:239 
+#: ../elementor/widgets/machic-home-slider.php:321 
+#: ../elementor/widgets/machic-home-slider.php:378 
+#: ../elementor/widgets/machic-home-slider.php:435 
+#: ../elementor/widgets/machic-home-slider.php:509 
+#: ../elementor/widgets/machic-home-slider.php:700 
+#: ../elementor/widgets/machic-icon-box.php:201 
+#: ../elementor/widgets/machic-icon-box.php:258 
+#: ../elementor/widgets/machic-icon-list.php:225 
+#: ../elementor/widgets/machic-icon-list.php:282 
+#: ../elementor/widgets/machic-product-categories.php:171 
+#: ../elementor/widgets/machic-product-categories.php:228 
+#: ../elementor/widgets/machic-product-categories.php:285 
+#: ../elementor/widgets/machic-product-grid.php:326 
+#: ../elementor/widgets/machic-product-grid.php:383 
+#: ../elementor/widgets/machic-product-grid.php:439 
+#: ../elementor/widgets/machic-product-list.php:220 
+#: ../elementor/widgets/machic-product-list.php:277 
+#: ../elementor/widgets/machic-product-list2.php:278 
+#: ../elementor/widgets/machic-product-list2.php:335 
+#: ../elementor/widgets/machic-text-banner.php:130 
+#: ../elementor/widgets/machic-text-banner.php:178 
+#: ../elementor/widgets/machic-text-banner.php:265 
+#: ../elementor/widgets/machic-text-banner2.php:194 
+#: ../elementor/widgets/machic-text-banner2.php:251 
+#: ../elementor/widgets/machic-text-banner2.php:307 
+#: ../elementor/widgets/machic-text-banner2.php:375 
+#: ../elementor/widgets/machic-text-block.php:144 
+#: ../elementor/widgets/machic-text-block.php:201
+msgid "Typography"
+msgstr ""
+
+#: ../elementor/widgets/machic-address-box.php:169
+msgid "COUNTRY SUBTITLE"
+msgstr ""
+
+#: ../elementor/widgets/machic-address-box.php:177
+msgid "Country Subtitle Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-address-box.php:186
+msgid "Country Subtitle Hover Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-address-box.php:226
+msgid "ADDRESS"
+msgstr ""
+
+#: ../elementor/widgets/machic-address-box.php:234
+msgid "Address Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-address-box.php:243
+msgid "Address Hover Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-address-box.php:283
+msgid "PHONE"
+msgstr ""
+
+#: ../elementor/widgets/machic-address-box.php:291
+msgid "Phone Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-address-box.php:300
+msgid "Phone Hover Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-address-box.php:329
+msgid "EMAIL"
+msgstr ""
+
+#: ../elementor/widgets/machic-address-box.php:337
+msgid "Email Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-address-box.php:346
+msgid "Email Hover Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-banner-box.php:32 
+#: ../elementor/widgets/machic-banner-box2.php:32
+msgid "Box Type"
+msgstr ""
+
+#: ../elementor/widgets/machic-banner-box.php:41 
+#: ../elementor/widgets/machic-product-carousel.php:42 
+#: ../elementor/widgets/machic-product-grid.php:42 
+#: ../elementor/widgets/machic-product-grid2.php:42
+msgid "Type 5"
+msgstr ""
+
+#: ../elementor/widgets/machic-banner-box.php:50 
+#: ../elementor/widgets/machic-banner-box2.php:47 
+#: ../elementor/widgets/machic-banner-box3.php:34 
+#: ../elementor/widgets/machic-category-banner.php:198 
+#: ../elementor/widgets/machic-category-banner2.php:198 
+#: ../elementor/widgets/machic-category-banner3.php:169 
+#: ../elementor/widgets/machic-clients-box.php:36 
+#: ../elementor/widgets/machic-home-slider.php:92 ../inc/customizer.php:2708
+msgid "Image"
+msgstr ""
+
+#: ../elementor/widgets/machic-banner-box.php:58 
+#: ../elementor/widgets/machic-banner-box2.php:55 
+#: ../elementor/widgets/machic-banner-box3.php:42 
+#: ../elementor/widgets/machic-category-banner.php:33 
+#: ../elementor/widgets/machic-category-banner.php:144 
+#: ../elementor/widgets/machic-category-banner2.php:33 
+#: ../elementor/widgets/machic-category-banner2.php:144 
+#: ../elementor/widgets/machic-category-banner3.php:115 
+#: ../elementor/widgets/machic-contact-form-7.php:43 
+#: ../elementor/widgets/machic-counter-product.php:33 
+#: ../elementor/widgets/machic-counter-product.php:96 
+#: ../elementor/widgets/machic-counter-product2.php:33 
+#: ../elementor/widgets/machic-counter-product2.php:96 
+#: ../elementor/widgets/machic-custom-title.php:46 
+#: ../elementor/widgets/machic-deals-product.php:33 
+#: ../elementor/widgets/machic-deals-product.php:115 
+#: ../elementor/widgets/machic-icon-box.php:68 
+#: ../elementor/widgets/machic-icon-list.php:70 
+#: ../elementor/widgets/machic-product-carousel.php:49 
+#: ../elementor/widgets/machic-product-carousel.php:203 
+#: ../elementor/widgets/machic-product-categories.php:104 
+#: ../elementor/widgets/machic-product-grid.php:60 
+#: ../elementor/widgets/machic-product-grid.php:171 
+#: ../elementor/widgets/machic-product-grid2.php:60 
+#: ../elementor/widgets/machic-product-grid2.php:171 
+#: ../elementor/widgets/machic-product-list.php:33 
+#: ../elementor/widgets/machic-product-list.php:96 
+#: ../elementor/widgets/machic-product-list2.php:55 
+#: ../elementor/widgets/machic-product-list2.php:167 
+#: ../elementor/widgets/machic-text-banner.php:32 
+#: ../elementor/widgets/machic-text-banner2.php:32 
+#: ../elementor/widgets/machic-text-block.php:32 ../inc/customizer.php:2620 
+#: ../inc/customizer.php:3205
+msgid "Title"
+msgstr ""
+
+#: ../elementor/widgets/machic-banner-box.php:68 
+#: ../elementor/widgets/machic-banner-box2.php:65 
+#: ../elementor/widgets/machic-banner-box3.php:52 
+#: ../elementor/widgets/machic-contact-form-7.php:52 
+#: ../elementor/widgets/machic-counter.php:51 
+#: ../elementor/widgets/machic-custom-title.php:55 
+#: ../elementor/widgets/machic-product-carousel.php:59 
+#: ../elementor/widgets/machic-text-banner.php:42 
+#: ../elementor/widgets/machic-text-banner2.php:42 
+#: ../elementor/widgets/machic-text-block.php:42 ../inc/customizer.php:3224
+msgid "Subtitle"
+msgstr ""
+
+#: ../elementor/widgets/machic-banner-box.php:78 
+#: ../elementor/widgets/machic-banner-box2.php:75 
+#: ../elementor/widgets/machic-banner-box3.php:62
+msgid "Second Subtitle"
+msgstr ""
+
+#: ../elementor/widgets/machic-banner-box.php:89 
+#: ../elementor/widgets/machic-banner-box3.php:73 
+#: ../elementor/widgets/machic-category-banner.php:43 
+#: ../elementor/widgets/machic-category-banner.php:236 
+#: ../elementor/widgets/machic-category-banner2.php:43 
+#: ../elementor/widgets/machic-category-banner2.php:236 
+#: ../elementor/widgets/machic-category-banner3.php:207 
+#: ../elementor/widgets/machic-custom-title.php:75 
+#: ../elementor/widgets/machic-deals-product.php:43 
+#: ../elementor/widgets/machic-home-slider.php:139 
+#: ../elementor/widgets/machic-product-carousel.php:69 
+#: ../elementor/widgets/machic-product-grid.php:70 
+#: ../elementor/widgets/machic-product-grid2.php:70 
+#: ../elementor/widgets/machic-product-list2.php:65 
+#: ../elementor/widgets/machic-text-banner2.php:72 ../inc/customizer.php:477
+msgid "Button Title"
+msgstr ""
+
+#: ../elementor/widgets/machic-banner-box.php:93 
+#: ../elementor/widgets/machic-banner-box3.php:77 
+#: ../elementor/widgets/machic-category-banner.php:47 
+#: ../elementor/widgets/machic-category-banner.php:240 
+#: ../elementor/widgets/machic-category-banner2.php:47 
+#: ../elementor/widgets/machic-category-banner2.php:240 
+#: ../elementor/widgets/machic-category-banner3.php:211 
+#: ../elementor/widgets/machic-custom-title.php:79 
+#: ../elementor/widgets/machic-deals-product.php:47 
+#: ../elementor/widgets/machic-home-slider.php:143 
+#: ../elementor/widgets/machic-product-carousel.php:73 
+#: ../elementor/widgets/machic-product-grid.php:74 
+#: ../elementor/widgets/machic-product-grid2.php:74 
+#: ../elementor/widgets/machic-product-list2.php:69 
+#: ../elementor/widgets/machic-text-banner2.php:76
+msgid "Enter button title here"
+msgstr ""
+
+#: ../elementor/widgets/machic-banner-box.php:99 
+#: ../elementor/widgets/machic-banner-box2.php:105 
+#: ../elementor/widgets/machic-banner-box3.php:83 
+#: ../elementor/widgets/machic-category-banner.php:53 
+#: ../elementor/widgets/machic-category-banner.php:246 
+#: ../elementor/widgets/machic-category-banner2.php:53 
+#: ../elementor/widgets/machic-category-banner2.php:246 
+#: ../elementor/widgets/machic-category-banner3.php:217 
+#: ../elementor/widgets/machic-custom-title.php:86 
+#: ../elementor/widgets/machic-deals-product.php:53 
+#: ../elementor/widgets/machic-home-slider.php:148 
+#: ../elementor/widgets/machic-product-carousel.php:79 
+#: ../elementor/widgets/machic-product-grid.php:80 
+#: ../elementor/widgets/machic-product-grid2.php:80 
+#: ../elementor/widgets/machic-product-list2.php:75 
+#: ../elementor/widgets/machic-text-banner.php:62 
+#: ../elementor/widgets/machic-text-banner2.php:81
+msgid "Button Link"
+msgstr ""
+
+#: ../elementor/widgets/machic-banner-box.php:102 
+#: ../elementor/widgets/machic-banner-box2.php:108 
+#: ../elementor/widgets/machic-banner-box3.php:86 
+#: ../elementor/widgets/machic-category-banner.php:56 
+#: ../elementor/widgets/machic-category-banner.php:249 
+#: ../elementor/widgets/machic-category-banner2.php:56 
+#: ../elementor/widgets/machic-category-banner2.php:249 
+#: ../elementor/widgets/machic-category-banner3.php:220 
+#: ../elementor/widgets/machic-clients-box.php:47 
+#: ../elementor/widgets/machic-custom-title.php:89 
+#: ../elementor/widgets/machic-deals-product.php:56 
+#: ../elementor/widgets/machic-home-slider.php:151 
+#: ../elementor/widgets/machic-product-carousel.php:82 
+#: ../elementor/widgets/machic-product-grid.php:83 
+#: ../elementor/widgets/machic-product-grid2.php:83 
+#: ../elementor/widgets/machic-product-list2.php:78 
+#: ../elementor/widgets/machic-text-banner.php:65 
+#: ../elementor/widgets/machic-text-banner2.php:84
+msgid "Place URL here"
+msgstr ""
+
+#: ../elementor/widgets/machic-banner-box.php:119 
+#: ../elementor/widgets/machic-banner-box.php:334 
+#: ../elementor/widgets/machic-banner-box2.php:125 
+#: ../elementor/widgets/machic-banner-box3.php:103 
+#: ../elementor/widgets/machic-banner-box3.php:367 
+#: ../elementor/widgets/machic-category-banner.php:506 
+#: ../elementor/widgets/machic-category-banner.php:710 
+#: ../elementor/widgets/machic-category-banner2.php:506 
+#: ../elementor/widgets/machic-category-banner2.php:710 
+#: ../elementor/widgets/machic-category-banner3.php:364 
+#: ../elementor/widgets/machic-category-banner3.php:568 
+#: ../elementor/widgets/machic-home-slider.php:206 
+#: ../elementor/widgets/machic-home-slider.php:689 
+#: ../elementor/widgets/machic-text-banner2.php:364
+msgid "Padding"
+msgstr ""
+
+#: ../elementor/widgets/machic-banner-box.php:152 
+#: ../elementor/widgets/machic-banner-box.php:168 
+#: ../elementor/widgets/machic-banner-box2.php:158 
+#: ../elementor/widgets/machic-banner-box2.php:174 
+#: ../elementor/widgets/machic-banner-box3.php:136 
+#: ../elementor/widgets/machic-banner-box3.php:152 
+#: ../elementor/widgets/machic-category-banner.php:266 
+#: ../elementor/widgets/machic-category-banner.php:555 
+#: ../elementor/widgets/machic-category-banner2.php:266 
+#: ../elementor/widgets/machic-category-banner2.php:555 
+#: ../elementor/widgets/machic-category-banner3.php:413 
+#: ../elementor/widgets/machic-contact-form-7.php:71 
+#: ../elementor/widgets/machic-counter-product.php:148 
+#: ../elementor/widgets/machic-counter-product2.php:148 
+#: ../elementor/widgets/machic-custom-title.php:132 
+#: ../elementor/widgets/machic-deals-product.php:134 
+#: ../elementor/widgets/machic-home-slider.php:239 
+#: ../elementor/widgets/machic-home-slider.php:330 
+#: ../elementor/widgets/machic-icon-box.php:153 
+#: ../elementor/widgets/machic-icon-list.php:177 
+#: ../elementor/widgets/machic-product-grid.php:278 
+#: ../elementor/widgets/machic-product-list.php:148 
+#: ../elementor/widgets/machic-product-list2.php:230 
+#: ../elementor/widgets/machic-text-banner.php:91 
+#: ../elementor/widgets/machic-text-banner2.php:110 
+#: ../elementor/widgets/machic-text-block.php:87
+msgid "TITLE"
+msgstr ""
+
+#: ../elementor/widgets/machic-banner-box.php:176 
+#: ../elementor/widgets/machic-banner-box2.php:182 
+#: ../elementor/widgets/machic-banner-box3.php:160 
+#: ../elementor/widgets/machic-category-banner.php:274 
+#: ../elementor/widgets/machic-category-banner.php:563 
+#: ../elementor/widgets/machic-category-banner2.php:274 
+#: ../elementor/widgets/machic-category-banner2.php:563 
+#: ../elementor/widgets/machic-category-banner3.php:421 
+#: ../elementor/widgets/machic-contact-form-7.php:79 
+#: ../elementor/widgets/machic-counter-product.php:180 
+#: ../elementor/widgets/machic-counter-product2.php:180 
+#: ../elementor/widgets/machic-custom-title.php:140 
+#: ../elementor/widgets/machic-deals-product.php:142 
+#: ../elementor/widgets/machic-home-slider.php:338 
+#: ../elementor/widgets/machic-icon-box.php:161 
+#: ../elementor/widgets/machic-icon-list.php:185 
+#: ../elementor/widgets/machic-product-grid.php:286 
+#: ../elementor/widgets/machic-product-list.php:180 
+#: ../elementor/widgets/machic-product-list2.php:238 
+#: ../elementor/widgets/machic-text-banner.php:99 
+#: ../elementor/widgets/machic-text-banner2.php:118 
+#: ../elementor/widgets/machic-text-block.php:104
+msgid "Title Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-banner-box.php:217 
+#: ../elementor/widgets/machic-banner-box2.php:223 
+#: ../elementor/widgets/machic-banner-box3.php:250 
+#: ../elementor/widgets/machic-category-banner.php:603 
+#: ../elementor/widgets/machic-category-banner2.php:603 
+#: ../elementor/widgets/machic-category-banner3.php:461 
+#: ../elementor/widgets/machic-contact-form-7.php:128 
+#: ../elementor/widgets/machic-counter.php:190 
+#: ../elementor/widgets/machic-custom-title.php:189 
+#: ../elementor/widgets/machic-home-slider.php:387 
+#: ../elementor/widgets/machic-text-banner.php:139 
+#: ../elementor/widgets/machic-text-banner2.php:203 
+#: ../elementor/widgets/machic-text-block.php:153
+msgid "SUBTITLE"
+msgstr ""
+
+#: ../elementor/widgets/machic-banner-box.php:225 
+#: ../elementor/widgets/machic-banner-box2.php:231 
+#: ../elementor/widgets/machic-banner-box3.php:258 
+#: ../elementor/widgets/machic-category-banner.php:611 
+#: ../elementor/widgets/machic-category-banner2.php:611 
+#: ../elementor/widgets/machic-category-banner3.php:469 
+#: ../elementor/widgets/machic-contact-form-7.php:136 
+#: ../elementor/widgets/machic-counter.php:198 
+#: ../elementor/widgets/machic-custom-title.php:198 
+#: ../elementor/widgets/machic-home-slider.php:395 
+#: ../elementor/widgets/machic-text-banner.php:147 
+#: ../elementor/widgets/machic-text-banner2.php:211 
+#: ../elementor/widgets/machic-text-block.php:161
+msgid "Subtitle Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-banner-box.php:264 
+#: ../elementor/widgets/machic-banner-box2.php:270 
+#: ../elementor/widgets/machic-banner-box3.php:297 
+#: ../elementor/widgets/machic-category-banner.php:650 
+#: ../elementor/widgets/machic-category-banner2.php:650 
+#: ../elementor/widgets/machic-category-banner3.php:508 
+#: ../elementor/widgets/machic-home-slider.php:443
+msgid "SECOND SUBTITLE"
+msgstr ""
+
+#: ../elementor/widgets/machic-banner-box.php:272 
+#: ../elementor/widgets/machic-banner-box3.php:305
+msgid "Second Subtitle Background Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-banner-box.php:282 
+#: ../elementor/widgets/machic-banner-box2.php:278 
+#: ../elementor/widgets/machic-banner-box3.php:315 
+#: ../elementor/widgets/machic-category-banner.php:658 
+#: ../elementor/widgets/machic-category-banner2.php:658 
+#: ../elementor/widgets/machic-category-banner3.php:516 
+#: ../elementor/widgets/machic-home-slider.php:451
+msgid "Second Subtitle Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-banner-box.php:327 
+#: ../elementor/widgets/machic-banner-box3.php:360 
+#: ../elementor/widgets/machic-home-slider.php:682 
+#: ../elementor/widgets/machic-text-banner2.php:357
+msgid " Button Style"
+msgstr ""
+
+#: ../elementor/widgets/machic-banner-box.php:365 
+#: ../elementor/widgets/machic-banner-box3.php:398 
+#: ../elementor/widgets/machic-category-banner.php:741 
+#: ../elementor/widgets/machic-category-banner2.php:741 
+#: ../elementor/widgets/machic-category-banner3.php:599 
+#: ../elementor/widgets/machic-home-slider.php:535 
+#: ../elementor/widgets/machic-home-slider.php:654 
+#: ../elementor/widgets/machic-home-slider.php:725 
+#: ../elementor/widgets/machic-home-slider.php:767 
+#: ../elementor/widgets/machic-text-banner2.php:400 
+#: ../elementor/widgets/machic-text-banner2.php:442
+msgid "Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-banner-box.php:376 
+#: ../elementor/widgets/machic-banner-box3.php:409 
+#: ../elementor/widgets/machic-category-banner.php:752 
+#: ../elementor/widgets/machic-category-banner2.php:752 
+#: ../elementor/widgets/machic-category-banner3.php:610 
+#: ../elementor/widgets/machic-clients-box.php:112 
+#: ../elementor/widgets/machic-home-slider.php:546 
+#: ../elementor/widgets/machic-home-slider.php:736 
+#: ../elementor/widgets/machic-home-slider.php:778 
+#: ../elementor/widgets/machic-text-banner2.php:411 
+#: ../elementor/widgets/machic-text-banner2.php:453
+msgid "Border"
+msgstr ""
+
+#: ../elementor/widgets/machic-banner-box.php:383 
+#: ../elementor/widgets/machic-banner-box3.php:416 
+#: ../elementor/widgets/machic-category-banner.php:759 
+#: ../elementor/widgets/machic-category-banner2.php:759 
+#: ../elementor/widgets/machic-category-banner3.php:617 
+#: ../elementor/widgets/machic-clients-box.php:119 
+#: ../elementor/widgets/machic-home-slider.php:553 
+#: ../elementor/widgets/machic-home-slider.php:743 
+#: ../elementor/widgets/machic-home-slider.php:785 
+#: ../elementor/widgets/machic-text-banner2.php:418 
+#: ../elementor/widgets/machic-text-banner2.php:460
+msgid "Border Radius"
+msgstr ""
+
+#: ../elementor/widgets/machic-banner-box.php:394 
+#: ../elementor/widgets/machic-banner-box3.php:427 
+#: ../elementor/widgets/machic-category-banner.php:770 
+#: ../elementor/widgets/machic-category-banner2.php:770 
+#: ../elementor/widgets/machic-category-banner3.php:628 
+#: ../elementor/widgets/machic-home-slider.php:576 
+#: ../elementor/widgets/machic-home-slider.php:667 
+#: ../elementor/widgets/machic-home-slider.php:754 
+#: ../elementor/widgets/machic-home-slider.php:796 
+#: ../elementor/widgets/machic-text-banner2.php:429 
+#: ../elementor/widgets/machic-text-banner2.php:471
+msgid "Background"
+msgstr ""
+
+#: ../elementor/widgets/machic-banner-box2.php:59 
+#: ../elementor/widgets/machic-home-slider.php:113 
+#: ../elementor/widgets/machic-text-banner2.php:36
+msgid "Enter item title here."
+msgstr ""
+
+#: ../elementor/widgets/machic-banner-box2.php:69 
+#: ../elementor/widgets/machic-banner-box2.php:79 
+#: ../elementor/widgets/machic-home-slider.php:123 
+#: ../elementor/widgets/machic-home-slider.php:133 
+#: ../elementor/widgets/machic-text-banner2.php:46
+msgid "Enter item subtitle here."
+msgstr ""
+
+#: ../elementor/widgets/machic-banner-box2.php:85 ../inc/customizer.php:2732
+msgid "Regular Price"
+msgstr ""
+
+#: ../elementor/widgets/machic-banner-box2.php:89 
+#: ../elementor/widgets/machic-text-banner2.php:66
+msgid "Add a price."
+msgstr ""
+
+#: ../elementor/widgets/machic-banner-box2.php:95 ../inc/customizer.php:2738
+msgid "Sale Price"
+msgstr ""
+
+#: ../elementor/widgets/machic-banner-box2.php:99 ../inc/customizer.php:2739
+msgid "Add a sale price."
+msgstr ""
+
+#: ../elementor/widgets/machic-banner-box2.php:317 
+#: ../elementor/widgets/machic-product-list.php:286
+msgid "REGULAR PRICE"
+msgstr ""
+
+#: ../elementor/widgets/machic-banner-box2.php:325 
+#: ../elementor/widgets/machic-product-list.php:294
+msgid "Regular Price Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-banner-box2.php:334 
+#: ../elementor/widgets/machic-product-list.php:303
+msgid "Regular Price Size"
+msgstr ""
+
+#: ../elementor/widgets/machic-banner-box2.php:366 
+#: ../elementor/widgets/machic-product-list.php:335
+msgid "SALE PRICE"
+msgstr ""
+
+#: ../elementor/widgets/machic-banner-box2.php:374 
+#: ../elementor/widgets/machic-product-list.php:343
+msgid "Sale Price Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-banner-box2.php:383 
+#: ../elementor/widgets/machic-product-list.php:352
+msgid "Sale Price Size"
+msgstr ""
+
+#: ../elementor/widgets/machic-banner-box3.php:201
+msgid "SECOND TITLE"
+msgstr ""
+
+#: ../elementor/widgets/machic-banner-box3.php:209 
+#: ../elementor/widgets/machic-text-banner2.php:154
+msgid "Second Title Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-category-banner.php:62 
+#: ../elementor/widgets/machic-category-banner2.php:62 
+#: ../elementor/widgets/machic-category-banner3.php:33 
+#: ../elementor/widgets/machic-product-carousel.php:88 
+#: ../elementor/widgets/machic-product-categories.php:72 
+#: ../elementor/widgets/machic-product-grid.php:89 
+#: ../elementor/widgets/machic-product-grid2.php:89 
+#: ../elementor/widgets/machic-product-list2.php:84
+msgid "Column"
+msgstr ""
+
+#: ../elementor/widgets/machic-category-banner.php:66 
+#: ../elementor/widgets/machic-category-banner.php:82 
+#: ../elementor/widgets/machic-category-banner2.php:66 
+#: ../elementor/widgets/machic-category-banner2.php:82 
+#: ../elementor/widgets/machic-category-banner3.php:37 
+#: ../elementor/widgets/machic-category-banner3.php:53 
+#: ../elementor/widgets/machic-product-carousel.php:92 
+#: ../elementor/widgets/machic-product-carousel.php:108 
+#: ../elementor/widgets/machic-product-categories.php:76 
+#: ../elementor/widgets/machic-product-grid.php:93 
+#: ../elementor/widgets/machic-product-grid.php:109 
+#: ../elementor/widgets/machic-product-grid2.php:93 
+#: ../elementor/widgets/machic-product-grid2.php:109 
+#: ../elementor/widgets/machic-product-list2.php:88 
+#: ../elementor/widgets/machic-product-list2.php:105
+msgid "Select Column"
+msgstr ""
+
+#: ../elementor/widgets/machic-category-banner.php:67 
+#: ../elementor/widgets/machic-category-banner.php:84 
+#: ../elementor/widgets/machic-category-banner2.php:67 
+#: ../elementor/widgets/machic-category-banner2.php:84 
+#: ../elementor/widgets/machic-category-banner3.php:38 
+#: ../elementor/widgets/machic-category-banner3.php:55 
+#: ../elementor/widgets/machic-product-carousel.php:93 
+#: ../elementor/widgets/machic-product-carousel.php:110 
+#: ../elementor/widgets/machic-product-categories.php:77 
+#: ../elementor/widgets/machic-product-grid.php:94 
+#: ../elementor/widgets/machic-product-grid.php:111 
+#: ../elementor/widgets/machic-product-grid2.php:94 
+#: ../elementor/widgets/machic-product-grid2.php:111 
+#: ../elementor/widgets/machic-product-list2.php:90 
+#: ../elementor/widgets/machic-product-list2.php:107 
+#: ../inc/customizer.php:2577 ../inc/customizer.php:2596
+msgid "2 Columns"
+msgstr ""
+
+#: ../elementor/widgets/machic-category-banner.php:68 
+#: ../elementor/widgets/machic-category-banner2.php:68 
+#: ../elementor/widgets/machic-category-banner3.php:39 
+#: ../elementor/widgets/machic-product-carousel.php:94 
+#: ../elementor/widgets/machic-product-categories.php:78 
+#: ../elementor/widgets/machic-product-grid.php:95 
+#: ../elementor/widgets/machic-product-grid2.php:95 
+#: ../elementor/widgets/machic-product-list2.php:91 ../inc/customizer.php:2576 
+#: ../inc/customizer.php:2595 ../inc/customizer.php:3459
+msgid "3 Columns"
+msgstr ""
+
+#: ../elementor/widgets/machic-category-banner.php:69 
+#: ../elementor/widgets/machic-category-banner2.php:69 
+#: ../elementor/widgets/machic-category-banner3.php:40 
+#: ../elementor/widgets/machic-product-carousel.php:95 
+#: ../elementor/widgets/machic-product-grid.php:96 
+#: ../elementor/widgets/machic-product-grid2.php:96 
+#: ../elementor/widgets/machic-product-list2.php:92 ../inc/customizer.php:2575 
+#: ../inc/customizer.php:2594 ../inc/customizer.php:3458
+msgid "4 Columns"
+msgstr ""
+
+#: ../elementor/widgets/machic-category-banner.php:70 
+#: ../elementor/widgets/machic-category-banner2.php:70 
+#: ../elementor/widgets/machic-category-banner3.php:41 
+#: ../elementor/widgets/machic-product-carousel.php:96 
+#: ../elementor/widgets/machic-product-grid.php:97 
+#: ../elementor/widgets/machic-product-grid2.php:97 
+#: ../elementor/widgets/machic-product-list2.php:93 ../inc/customizer.php:2574 
+#: ../inc/customizer.php:2593 ../inc/customizer.php:3457
+msgid "5 Columns"
+msgstr ""
+
+#: ../elementor/widgets/machic-category-banner.php:71 
+#: ../elementor/widgets/machic-category-banner2.php:71 
+#: ../elementor/widgets/machic-category-banner3.php:42 
+#: ../elementor/widgets/machic-product-carousel.php:97 
+#: ../elementor/widgets/machic-product-grid.php:98 
+#: ../elementor/widgets/machic-product-grid2.php:98 
+#: ../elementor/widgets/machic-product-list2.php:94 ../inc/customizer.php:2573 
+#: ../inc/customizer.php:2592
+msgid "6 Columns"
+msgstr ""
+
+#: ../elementor/widgets/machic-category-banner.php:78 
+#: ../elementor/widgets/machic-category-banner2.php:78 
+#: ../elementor/widgets/machic-category-banner3.php:49 
+#: ../elementor/widgets/machic-product-carousel.php:104 
+#: ../elementor/widgets/machic-product-grid.php:105 
+#: ../elementor/widgets/machic-product-grid2.php:105 
+#: ../elementor/widgets/machic-product-list2.php:101
+msgid "Mobile Column"
+msgstr ""
+
+#: ../elementor/widgets/machic-category-banner.php:83 
+#: ../elementor/widgets/machic-category-banner2.php:83 
+#: ../elementor/widgets/machic-category-banner3.php:54 
+#: ../elementor/widgets/machic-product-carousel.php:109 
+#: ../elementor/widgets/machic-product-grid.php:110 
+#: ../elementor/widgets/machic-product-grid2.php:110 
+#: ../elementor/widgets/machic-product-list2.php:89 
+#: ../elementor/widgets/machic-product-list2.php:106
+msgid "1 Column"
+msgstr ""
+
+#: ../elementor/widgets/machic-category-banner.php:102 
+#: ../elementor/widgets/machic-category-banner2.php:102 
+#: ../elementor/widgets/machic-category-banner3.php:73 
+#: ../elementor/widgets/machic-counter-product.php:54 
+#: ../elementor/widgets/machic-counter-product2.php:54 
+#: ../elementor/widgets/machic-deals-product.php:73 
+#: ../elementor/widgets/machic-product-carousel.php:161 
+#: ../elementor/widgets/machic-product-grid.php:129 
+#: ../elementor/widgets/machic-product-grid2.php:129 
+#: ../elementor/widgets/machic-product-list.php:54 
+#: ../elementor/widgets/machic-product-list2.php:125
+msgid "Filter Category"
+msgstr ""
+
+#: ../elementor/widgets/machic-category-banner.php:114 
+#: ../elementor/widgets/machic-category-banner2.php:114 
+#: ../elementor/widgets/machic-category-banner3.php:85 
+#: ../elementor/widgets/machic-counter-product.php:66 
+#: ../elementor/widgets/machic-counter-product2.php:66 
+#: ../elementor/widgets/machic-deals-product.php:85 
+#: ../elementor/widgets/machic-product-carousel.php:173 
+#: ../elementor/widgets/machic-product-grid.php:141 
+#: ../elementor/widgets/machic-product-grid2.php:141 
+#: ../elementor/widgets/machic-product-list.php:66 
+#: ../elementor/widgets/machic-product-list2.php:137
+msgid "Include Post"
+msgstr ""
+
+#: ../elementor/widgets/machic-category-banner.php:125 
+#: ../elementor/widgets/machic-category-banner2.php:125 
+#: ../elementor/widgets/machic-category-banner3.php:96 
+#: ../elementor/widgets/machic-counter-product.php:77 
+#: ../elementor/widgets/machic-counter-product2.php:77 
+#: ../elementor/widgets/machic-deals-product.php:96 
+#: ../elementor/widgets/machic-product-carousel.php:184 
+#: ../elementor/widgets/machic-product-categories.php:85 
+#: ../elementor/widgets/machic-product-grid.php:152 
+#: ../elementor/widgets/machic-product-grid2.php:152 
+#: ../elementor/widgets/machic-product-list.php:77 
+#: ../elementor/widgets/machic-product-list2.php:148
+msgid "Select Order"
+msgstr ""
+
+#: ../elementor/widgets/machic-category-banner.php:128 
+#: ../elementor/widgets/machic-category-banner2.php:128 
+#: ../elementor/widgets/machic-category-banner3.php:99 
+#: ../elementor/widgets/machic-counter-product.php:80 
+#: ../elementor/widgets/machic-counter-product2.php:80 
+#: ../elementor/widgets/machic-deals-product.php:99 
+#: ../elementor/widgets/machic-product-carousel.php:187 
+#: ../elementor/widgets/machic-product-categories.php:88 
+#: ../elementor/widgets/machic-product-grid.php:155 
+#: ../elementor/widgets/machic-product-grid2.php:155 
+#: ../elementor/widgets/machic-product-list.php:80 
+#: ../elementor/widgets/machic-product-list2.php:151
+msgid "Ascending"
+msgstr ""
+
+#: ../elementor/widgets/machic-category-banner.php:129 
+#: ../elementor/widgets/machic-category-banner2.php:129 
+#: ../elementor/widgets/machic-category-banner3.php:100 
+#: ../elementor/widgets/machic-counter-product.php:81 
+#: ../elementor/widgets/machic-counter-product2.php:81 
+#: ../elementor/widgets/machic-deals-product.php:100 
+#: ../elementor/widgets/machic-product-carousel.php:188 
+#: ../elementor/widgets/machic-product-categories.php:89 
+#: ../elementor/widgets/machic-product-grid.php:156 
+#: ../elementor/widgets/machic-product-grid2.php:156 
+#: ../elementor/widgets/machic-product-list.php:81 
+#: ../elementor/widgets/machic-product-list2.php:152
+msgid "Descending"
+msgstr ""
+
+#: ../elementor/widgets/machic-category-banner.php:140 
+#: ../elementor/widgets/machic-category-banner2.php:140 
+#: ../elementor/widgets/machic-category-banner3.php:111 
+#: ../elementor/widgets/machic-counter-product.php:92 
+#: ../elementor/widgets/machic-counter-product2.php:92 
+#: ../elementor/widgets/machic-deals-product.php:111 
+#: ../elementor/widgets/machic-product-carousel.php:199 
+#: ../elementor/widgets/machic-product-categories.php:100 
+#: ../elementor/widgets/machic-product-grid.php:167 
+#: ../elementor/widgets/machic-product-grid2.php:167 
+#: ../elementor/widgets/machic-product-list.php:92 
+#: ../elementor/widgets/machic-product-list2.php:163
+msgid "Post ID"
+msgstr ""
+
+#: ../elementor/widgets/machic-category-banner.php:141 
+#: ../elementor/widgets/machic-category-banner2.php:141 
+#: ../elementor/widgets/machic-category-banner3.php:112 
+#: ../elementor/widgets/machic-counter-product.php:93 
+#: ../elementor/widgets/machic-counter-product2.php:93 
+#: ../elementor/widgets/machic-deals-product.php:112 
+#: ../elementor/widgets/machic-product-carousel.php:200 
+#: ../elementor/widgets/machic-product-categories.php:101 
+#: ../elementor/widgets/machic-product-grid.php:168 
+#: ../elementor/widgets/machic-product-grid2.php:168 
+#: ../elementor/widgets/machic-product-list.php:93 
+#: ../elementor/widgets/machic-product-list2.php:164
+msgid "Menu Order"
+msgstr ""
+
+#: ../elementor/widgets/machic-category-banner.php:142 
+#: ../elementor/widgets/machic-category-banner2.php:142 
+#: ../elementor/widgets/machic-category-banner3.php:113 
+#: ../elementor/widgets/machic-counter-product.php:94 
+#: ../elementor/widgets/machic-counter-product2.php:94 
+#: ../elementor/widgets/machic-deals-product.php:113 
+#: ../elementor/widgets/machic-product-carousel.php:201 
+#: ../elementor/widgets/machic-product-categories.php:102 
+#: ../elementor/widgets/machic-product-grid.php:169 
+#: ../elementor/widgets/machic-product-grid2.php:169 
+#: ../elementor/widgets/machic-product-list.php:94 
+#: ../elementor/widgets/machic-product-list2.php:165
+msgid "Random"
+msgstr ""
+
+#: ../elementor/widgets/machic-category-banner.php:143 
+#: ../elementor/widgets/machic-category-banner2.php:143 
+#: ../elementor/widgets/machic-category-banner3.php:114 
+#: ../elementor/widgets/machic-counter-product.php:95 
+#: ../elementor/widgets/machic-counter-product2.php:95 
+#: ../elementor/widgets/machic-deals-product.php:114 
+#: ../elementor/widgets/machic-product-carousel.php:202 
+#: ../elementor/widgets/machic-product-categories.php:103 
+#: ../elementor/widgets/machic-product-grid.php:170 
+#: ../elementor/widgets/machic-product-grid2.php:170 
+#: ../elementor/widgets/machic-product-list.php:95 
+#: ../elementor/widgets/machic-product-list2.php:166
+msgid "Date"
+msgstr ""
+
+#: ../elementor/widgets/machic-category-banner.php:152 
+#: ../elementor/widgets/machic-category-banner2.php:152 
+#: ../elementor/widgets/machic-category-banner3.php:123 
+#: ../elementor/widgets/machic-counter-product.php:104 
+#: ../elementor/widgets/machic-counter-product2.php:104 
+#: ../elementor/widgets/machic-product-carousel.php:211 
+#: ../elementor/widgets/machic-product-grid.php:179 
+#: ../elementor/widgets/machic-product-grid2.php:179 
+#: ../elementor/widgets/machic-product-list.php:104 
+#: ../elementor/widgets/machic-product-list2.php:175 ../inc/customizer.php:553
+msgid "On Sale Products?"
+msgstr ""
+
+#: ../elementor/widgets/machic-category-banner.php:154 
+#: ../elementor/widgets/machic-category-banner.php:165 
+#: ../elementor/widgets/machic-category-banner.php:176 
+#: ../elementor/widgets/machic-category-banner2.php:154 
+#: ../elementor/widgets/machic-category-banner2.php:165 
+#: ../elementor/widgets/machic-category-banner2.php:176 
+#: ../elementor/widgets/machic-category-banner3.php:125 
+#: ../elementor/widgets/machic-category-banner3.php:136 
+#: ../elementor/widgets/machic-category-banner3.php:147 
+#: ../elementor/widgets/machic-counter-product.php:106 
+#: ../elementor/widgets/machic-counter-product.php:117 
+#: ../elementor/widgets/machic-counter-product.php:128 
+#: ../elementor/widgets/machic-counter-product2.php:106 
+#: ../elementor/widgets/machic-counter-product2.php:117 
+#: ../elementor/widgets/machic-counter-product2.php:128 
+#: ../elementor/widgets/machic-home-slider.php:47 
+#: ../elementor/widgets/machic-home-slider.php:69 
+#: ../elementor/widgets/machic-home-slider.php:80 
+#: ../elementor/widgets/machic-product-carousel.php:119 
+#: ../elementor/widgets/machic-product-carousel.php:141 
+#: ../elementor/widgets/machic-product-carousel.php:213 
+#: ../elementor/widgets/machic-product-carousel.php:224 
+#: ../elementor/widgets/machic-product-carousel.php:235 
+#: ../elementor/widgets/machic-product-carousel.php:246 
+#: ../elementor/widgets/machic-product-grid.php:51 
+#: ../elementor/widgets/machic-product-grid.php:181 
+#: ../elementor/widgets/machic-product-grid.php:192 
+#: ../elementor/widgets/machic-product-grid.php:203 
+#: ../elementor/widgets/machic-product-grid.php:214 
+#: ../elementor/widgets/machic-product-grid.php:237 
+#: ../elementor/widgets/machic-product-grid2.php:51 
+#: ../elementor/widgets/machic-product-grid2.php:181 
+#: ../elementor/widgets/machic-product-grid2.php:192 
+#: ../elementor/widgets/machic-product-grid2.php:203 
+#: ../elementor/widgets/machic-product-grid2.php:214 
+#: ../elementor/widgets/machic-product-list.php:106 
+#: ../elementor/widgets/machic-product-list.php:117 
+#: ../elementor/widgets/machic-product-list.php:128 
+#: ../elementor/widgets/machic-product-list2.php:35 
+#: ../elementor/widgets/machic-product-list2.php:46 
+#: ../elementor/widgets/machic-product-list2.php:177 
+#: ../elementor/widgets/machic-product-list2.php:188 
+#: ../elementor/widgets/machic-product-list2.php:199 
+#: ../elementor/widgets/machic-product-list2.php:210
+msgid "True"
+msgstr ""
+
+#: ../elementor/widgets/machic-category-banner.php:155 
+#: ../elementor/widgets/machic-category-banner.php:166 
+#: ../elementor/widgets/machic-category-banner.php:177 
+#: ../elementor/widgets/machic-category-banner2.php:155 
+#: ../elementor/widgets/machic-category-banner2.php:166 
+#: ../elementor/widgets/machic-category-banner2.php:177 
+#: ../elementor/widgets/machic-category-banner3.php:126 
+#: ../elementor/widgets/machic-category-banner3.php:137 
+#: ../elementor/widgets/machic-category-banner3.php:148 
+#: ../elementor/widgets/machic-counter-product.php:107 
+#: ../elementor/widgets/machic-counter-product.php:118 
+#: ../elementor/widgets/machic-counter-product.php:129 
+#: ../elementor/widgets/machic-counter-product2.php:107 
+#: ../elementor/widgets/machic-counter-product2.php:118 
+#: ../elementor/widgets/machic-counter-product2.php:129 
+#: ../elementor/widgets/machic-home-slider.php:48 
+#: ../elementor/widgets/machic-home-slider.php:70 
+#: ../elementor/widgets/machic-home-slider.php:81 
+#: ../elementor/widgets/machic-product-carousel.php:120 
+#: ../elementor/widgets/machic-product-carousel.php:142 
+#: ../elementor/widgets/machic-product-carousel.php:214 
+#: ../elementor/widgets/machic-product-carousel.php:225 
+#: ../elementor/widgets/machic-product-carousel.php:236 
+#: ../elementor/widgets/machic-product-carousel.php:247 
+#: ../elementor/widgets/machic-product-grid.php:52 
+#: ../elementor/widgets/machic-product-grid.php:182 
+#: ../elementor/widgets/machic-product-grid.php:193 
+#: ../elementor/widgets/machic-product-grid.php:204 
+#: ../elementor/widgets/machic-product-grid.php:215 
+#: ../elementor/widgets/machic-product-grid.php:238 
+#: ../elementor/widgets/machic-product-grid2.php:52 
+#: ../elementor/widgets/machic-product-grid2.php:182 
+#: ../elementor/widgets/machic-product-grid2.php:193 
+#: ../elementor/widgets/machic-product-grid2.php:204 
+#: ../elementor/widgets/machic-product-grid2.php:215 
+#: ../elementor/widgets/machic-product-list.php:107 
+#: ../elementor/widgets/machic-product-list.php:118 
+#: ../elementor/widgets/machic-product-list.php:129 
+#: ../elementor/widgets/machic-product-list2.php:36 
+#: ../elementor/widgets/machic-product-list2.php:47 
+#: ../elementor/widgets/machic-product-list2.php:178 
+#: ../elementor/widgets/machic-product-list2.php:189 
+#: ../elementor/widgets/machic-product-list2.php:200 
+#: ../elementor/widgets/machic-product-list2.php:211
+msgid "False"
+msgstr ""
+
+#: ../elementor/widgets/machic-category-banner.php:163 
+#: ../elementor/widgets/machic-category-banner2.php:163 
+#: ../elementor/widgets/machic-category-banner3.php:134 
+#: ../elementor/widgets/machic-counter-product.php:115 
+#: ../elementor/widgets/machic-counter-product2.php:115 
+#: ../elementor/widgets/machic-product-carousel.php:233 
+#: ../elementor/widgets/machic-product-grid.php:201 
+#: ../elementor/widgets/machic-product-grid2.php:201 
+#: ../elementor/widgets/machic-product-list.php:115 
+#: ../elementor/widgets/machic-product-list2.php:197 ../inc/customizer.php:571
+msgid "Featured Products?"
+msgstr ""
+
+#: ../elementor/widgets/machic-category-banner.php:174 
+#: ../elementor/widgets/machic-category-banner2.php:174 
+#: ../elementor/widgets/machic-category-banner3.php:145 
+#: ../elementor/widgets/machic-counter-product.php:126 
+#: ../elementor/widgets/machic-counter-product2.php:126 
+#: ../elementor/widgets/machic-product-carousel.php:244 
+#: ../elementor/widgets/machic-product-grid.php:212 
+#: ../elementor/widgets/machic-product-grid2.php:212 
+#: ../elementor/widgets/machic-product-list.php:126 
+#: ../elementor/widgets/machic-product-list2.php:208 ../inc/customizer.php:589
+msgid "Best Selling Products?"
+msgstr ""
+
+#: ../elementor/widgets/machic-category-banner.php:189 
+#: ../elementor/widgets/machic-category-banner2.php:189 
+#: ../elementor/widgets/machic-category-banner3.php:160 
+#: ../inc/customizer.php:2047
+msgid "Banner"
+msgstr ""
+
+#: ../elementor/widgets/machic-category-banner.php:206 
+#: ../elementor/widgets/machic-category-banner2.php:206 
+#: ../elementor/widgets/machic-category-banner3.php:177
+msgid "Banner Title"
+msgstr ""
+
+#: ../elementor/widgets/machic-category-banner.php:216 
+#: ../elementor/widgets/machic-category-banner2.php:216 
+#: ../elementor/widgets/machic-category-banner3.php:187
+msgid "Banner Subtitle"
+msgstr ""
+
+#: ../elementor/widgets/machic-category-banner.php:226 
+#: ../elementor/widgets/machic-category-banner2.php:226 
+#: ../elementor/widgets/machic-category-banner3.php:197
+msgid "Banner Second Subtitle"
+msgstr ""
+
+#: ../elementor/widgets/machic-category-banner.php:283 
+#: ../elementor/widgets/machic-category-banner2.php:283 
+#: ../elementor/widgets/machic-contact-form-7.php:88 
+#: ../elementor/widgets/machic-counter-product.php:189 
+#: ../elementor/widgets/machic-counter-product2.php:189 
+#: ../elementor/widgets/machic-custom-title.php:149 
+#: ../elementor/widgets/machic-deals-product.php:151 
+#: ../elementor/widgets/machic-home-slider.php:347 
+#: ../elementor/widgets/machic-icon-box.php:170 
+#: ../elementor/widgets/machic-icon-list.php:194 
+#: ../elementor/widgets/machic-product-grid.php:295 
+#: ../elementor/widgets/machic-product-list.php:189 
+#: ../elementor/widgets/machic-product-list2.php:247 
+#: ../elementor/widgets/machic-text-banner2.php:127 
+#: ../elementor/widgets/machic-text-block.php:113
+msgid "Title Hover Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-category-banner.php:323 
+#: ../elementor/widgets/machic-category-banner2.php:323 
+#: ../elementor/widgets/machic-custom-title.php:314 
+#: ../elementor/widgets/machic-deals-product.php:191 
+#: ../elementor/widgets/machic-product-categories.php:237 
+#: ../elementor/widgets/machic-product-grid.php:335 
+#: ../elementor/widgets/machic-product-list2.php:287
+msgid "BUTTON"
+msgstr ""
+
+#: ../elementor/widgets/machic-category-banner.php:331 
+#: ../elementor/widgets/machic-category-banner2.php:331 
+#: ../elementor/widgets/machic-custom-title.php:323 
+#: ../elementor/widgets/machic-deals-product.php:199 
+#: ../elementor/widgets/machic-product-categories.php:245 
+#: ../elementor/widgets/machic-product-grid.php:343 
+#: ../elementor/widgets/machic-product-list2.php:295
+msgid "Button Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-category-banner.php:340 
+#: ../elementor/widgets/machic-category-banner2.php:340 
+#: ../elementor/widgets/machic-custom-title.php:333 
+#: ../elementor/widgets/machic-deals-product.php:208 
+#: ../elementor/widgets/machic-product-categories.php:254 
+#: ../elementor/widgets/machic-product-grid.php:352 
+#: ../elementor/widgets/machic-product-list2.php:304
+msgid "Button Hover Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-category-banner.php:379 
+#: ../elementor/widgets/machic-category-banner2.php:379 
+#: ../elementor/widgets/machic-category-banner3.php:237 
+#: ../elementor/widgets/machic-product-categories.php:123
+msgid "CATEGORY TITLE"
+msgstr ""
+
+#: ../elementor/widgets/machic-category-banner.php:387 
+#: ../elementor/widgets/machic-category-banner2.php:387 
+#: ../elementor/widgets/machic-category-banner3.php:245 
+#: ../elementor/widgets/machic-product-categories.php:131
+msgid "Category Title Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-category-banner.php:396 
+#: ../elementor/widgets/machic-category-banner2.php:396 
+#: ../elementor/widgets/machic-category-banner3.php:254 
+#: ../elementor/widgets/machic-product-categories.php:140
+msgid "Category Title Hover Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-category-banner.php:436 
+#: ../elementor/widgets/machic-category-banner2.php:436 
+#: ../elementor/widgets/machic-category-banner3.php:294 
+#: ../elementor/widgets/machic-product-categories.php:180
+msgid "CATEGORY SUBTITLE"
+msgstr ""
+
+#: ../elementor/widgets/machic-category-banner.php:444 
+#: ../elementor/widgets/machic-category-banner2.php:444 
+#: ../elementor/widgets/machic-category-banner3.php:302 
+#: ../elementor/widgets/machic-product-categories.php:188
+msgid "Category Subtitle Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-category-banner.php:453 
+#: ../elementor/widgets/machic-category-banner2.php:453 
+#: ../elementor/widgets/machic-category-banner3.php:311 
+#: ../elementor/widgets/machic-product-categories.php:197
+msgid "Category Subtitle Hover Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-category-banner.php:499 
+#: ../elementor/widgets/machic-category-banner2.php:499 
+#: ../elementor/widgets/machic-category-banner3.php:357
+msgid " Banner"
+msgstr ""
+
+#: ../elementor/widgets/machic-category-banner.php:539 
+#: ../elementor/widgets/machic-category-banner2.php:539 
+#: ../elementor/widgets/machic-category-banner3.php:397
+msgid "IMAGE"
+msgstr ""
+
+#: ../elementor/widgets/machic-category-banner.php:703 
+#: ../elementor/widgets/machic-category-banner2.php:703 
+#: ../elementor/widgets/machic-category-banner3.php:561
+msgid " Banner Button Style"
+msgstr ""
+
+#: ../elementor/widgets/machic-clients-box.php:44
+msgid "Image Link"
+msgstr ""
+
+#: ../elementor/widgets/machic-clients-box.php:53
+msgid "Client Items"
+msgstr ""
+
+#: ../elementor/widgets/machic-contact-form-7.php:25
+msgid "Form Data"
+msgstr ""
+
+#: ../elementor/widgets/machic-contact-form-7.php:32
+msgid "Select Form"
+msgstr ""
+
+#: ../elementor/widgets/machic-contact-form-7.php:46 
+#: ../elementor/widgets/machic-custom-title.php:49
+msgid "Set a title."
+msgstr ""
+
+#: ../elementor/widgets/machic-contact-form-7.php:55
+msgid "Set a text."
+msgstr ""
+
+#: ../elementor/widgets/machic-contact-form-7.php:64
+msgid "Form Style"
+msgstr ""
+
+#: ../elementor/widgets/machic-contact-form-7.php:145 
+#: ../elementor/widgets/machic-counter.php:207 
+#: ../elementor/widgets/machic-custom-title.php:208 
+#: ../elementor/widgets/machic-home-slider.php:404 
+#: ../elementor/widgets/machic-text-banner2.php:220 
+#: ../elementor/widgets/machic-text-block.php:170
+msgid "Subtitle Hover Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-contact-form-7.php:210 
+#: ../elementor/widgets/machic-contact-form-7.php:303
+msgid "Form Max Width"
+msgstr ""
+
+#: ../elementor/widgets/machic-contact-form-7.php:223 
+#: ../elementor/widgets/machic-contact-form-7.php:316
+msgid "Input Height"
+msgstr ""
+
+#: ../elementor/widgets/machic-contact-form-7.php:236 
+#: ../elementor/widgets/machic-contact-form-7.php:329 
+#: ../elementor/widgets/machic-home-slider.php:530 
+#: ../elementor/widgets/machic-home-slider.php:720 
+#: ../elementor/widgets/machic-text-banner2.php:395
+msgid "Normal"
+msgstr ""
+
+#: ../elementor/widgets/machic-contact-form-7.php:255 
+#: ../elementor/widgets/machic-contact-form-7.php:348 
+#: ../elementor/widgets/machic-home-slider.php:649 
+#: ../elementor/widgets/machic-home-slider.php:762 
+#: ../elementor/widgets/machic-text-banner2.php:437
+msgid "Hover"
+msgstr ""
+
+#: ../elementor/widgets/machic-contact-form-7.php:274
+msgid "Focus"
+msgstr ""
+
+#: ../elementor/widgets/machic-contact-form-7.php:297
+msgid "Form Button Style"
+msgstr ""
+
+#: ../elementor/widgets/machic-contact-form-7.php:380
+msgid "Please Select a Form"
+msgstr ""
+
+#: ../elementor/widgets/machic-counter-product.php:365 
+#: ../elementor/widgets/machic-counter-product2.php:330 
+#: ../elementor/widgets/machic-counter.php:263 
+#: ../elementor/widgets/machic-product-grid.php:578
+msgid "Expired"
+msgstr ""
+
+#: ../elementor/widgets/machic-counter-product.php:374 
+#: ../elementor/widgets/machic-counter-product2.php:329 
+#: ../woocommerce-filter/woocommerce-filter.php:457
+msgid "Remains until the end of the offer"
+msgstr ""
+
+#: ../elementor/widgets/machic-counter-product2.php:388 
+#: ../elementor/widgets/machic-deals-product.php:358 
+#: ../woocommerce-filter/woocommerce-filter.php:424
+msgid "Available:"
+msgstr ""
+
+#: ../elementor/widgets/machic-counter-product2.php:389 
+#: ../elementor/widgets/machic-deals-product.php:359 
+#: ../woocommerce-filter/woocommerce-filter.php:423
+msgid "Sold:"
+msgstr ""
+
+#: ../elementor/widgets/machic-counter.php:32 
+#: ../elementor/widgets/machic-product-grid.php:246
+msgid "Due Date"
+msgstr ""
+
+#: ../elementor/widgets/machic-counter.php:41 
+#: ../elementor/widgets/machic-custom-title.php:65 
+#: ../elementor/widgets/machic-icon-box.php:77 
+#: ../elementor/widgets/machic-icon-list.php:80 ../inc/customizer.php:2663 
+#: ../inc/customizer.php:2726
+msgid "Description"
+msgstr ""
+
+#: ../elementor/widgets/machic-counter.php:72 
+#: ../elementor/widgets/machic-custom-title.php:252 
+#: ../elementor/widgets/machic-icon-box.php:210 
+#: ../elementor/widgets/machic-icon-list.php:234
+msgid "DESCRIPTION"
+msgstr ""
+
+#: ../elementor/widgets/machic-counter.php:80 
+#: ../elementor/widgets/machic-custom-title.php:261 
+#: ../elementor/widgets/machic-icon-box.php:218 
+#: ../elementor/widgets/machic-icon-list.php:242
+msgid "Description Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-counter.php:89 
+#: ../elementor/widgets/machic-custom-title.php:271 
+#: ../elementor/widgets/machic-icon-box.php:227 
+#: ../elementor/widgets/machic-icon-list.php:251
+msgid "Description Hover Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-counter.php:98
+msgid "Second Description Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-counter.php:107
+msgid "Second Description Hover Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-counter.php:146 
+#: ../elementor/widgets/machic-product-grid.php:448
+msgid "DUE DATE"
+msgstr ""
+
+#: ../elementor/widgets/machic-counter.php:154 
+#: ../elementor/widgets/machic-product-grid.php:456
+msgid "Due Date Background Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-counter.php:163 
+#: ../elementor/widgets/machic-product-grid.php:465
+msgid "Due Date Background Hover Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-counter.php:172 
+#: ../elementor/widgets/machic-product-grid.php:474
+msgid "Due Date Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-counter.php:181 
+#: ../elementor/widgets/machic-product-grid.php:483
+msgid "Due Date Hover Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-custom-title.php:32
+msgid "Title Type"
+msgstr ""
+
+#: ../elementor/widgets/machic-custom-title.php:58
+msgid "Set a subtitle."
+msgstr ""
+
+#: ../elementor/widgets/machic-custom-title.php:68
+msgid "Set a description."
+msgstr ""
+
+#: ../elementor/widgets/machic-home-slider.php:32
+msgid "Slider Type"
+msgstr ""
+
+#: ../elementor/widgets/machic-home-slider.php:45 
+#: ../elementor/widgets/machic-product-carousel.php:117
+msgid "Auto Play"
+msgstr ""
+
+#: ../elementor/widgets/machic-home-slider.php:56 
+#: ../elementor/widgets/machic-product-carousel.php:128
+msgid "Auto Speed"
+msgstr ""
+
+#: ../elementor/widgets/machic-home-slider.php:60 
+#: ../elementor/widgets/machic-product-carousel.php:132
+msgid "Set auto speed."
+msgstr ""
+
+#: ../elementor/widgets/machic-home-slider.php:67
+msgid "Dots"
+msgstr ""
+
+#: ../elementor/widgets/machic-home-slider.php:78 
+#: ../elementor/widgets/machic-product-carousel.php:139
+msgid "Arrows"
+msgstr ""
+
+#: ../elementor/widgets/machic-home-slider.php:99
+msgid "Item Offer"
+msgstr ""
+
+#: ../elementor/widgets/machic-home-slider.php:103
+msgid "Add an offer for the item."
+msgstr ""
+
+#: ../elementor/widgets/machic-home-slider.php:109
+msgid "Item Title"
+msgstr ""
+
+#: ../elementor/widgets/machic-home-slider.php:119
+msgid "Item Subtitle"
+msgstr ""
+
+#: ../elementor/widgets/machic-home-slider.php:129
+msgid "Item Second Subtitle"
+msgstr ""
+
+#: ../elementor/widgets/machic-home-slider.php:157
+msgid "Slide Items"
+msgstr ""
+
+#: ../elementor/widgets/machic-home-slider.php:255
+msgid "OFFER TITLE"
+msgstr ""
+
+#: ../elementor/widgets/machic-home-slider.php:263
+msgid "Offer Background Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-home-slider.php:272
+msgid "Offer Background Hover Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-home-slider.php:281
+msgid "Offer Title Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-home-slider.php:290
+msgid "Offer Title Hover Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-home-slider.php:460
+msgid "Second Subtitle Hover Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-home-slider.php:469
+msgid "Per Cent Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-home-slider.php:478
+msgid "Per Cent Hover Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-home-slider.php:523
+msgid " Nav Style"
+msgstr ""
+
+#: ../elementor/widgets/machic-home-slider.php:562
+msgid " Size"
+msgstr ""
+
+#: ../elementor/widgets/machic-home-slider.php:593 
+#: ../elementor/widgets/machic-home-slider.php:625
+msgid "Horizontal Position ( % )"
+msgstr ""
+
+#: ../elementor/widgets/machic-home-slider.php:605 
+#: ../elementor/widgets/machic-home-slider.php:637
+msgid "Vertical Position ( % )"
+msgstr ""
+
+#: ../elementor/widgets/machic-icon-box.php:33 
+#: ../elementor/widgets/machic-icon-list.php:35
+msgid "Use Custom Icon"
+msgstr ""
+
+#: ../elementor/widgets/machic-icon-box.php:45 
+#: ../elementor/widgets/machic-icon-list.php:47 ../inc/customizer.php:2310 
+#: ../inc/customizer.php:3383
+msgid "Icon"
+msgstr ""
+
+#: ../elementor/widgets/machic-icon-box.php:58 
+#: ../elementor/widgets/machic-icon-list.php:60
+msgid "Custom Icon"
+msgstr ""
+
+#: ../elementor/widgets/machic-icon-box.php:71
+msgid "Enter title here"
+msgstr ""
+
+#: ../elementor/widgets/machic-icon-box.php:79 
+#: ../elementor/widgets/machic-icon-list.php:82
+msgid "Enter desc here"
+msgstr ""
+
+#: ../elementor/widgets/machic-icon-box.php:90 
+#: ../elementor/widgets/machic-icon-list.php:122
+msgid " Style"
+msgstr ""
+
+#: ../elementor/widgets/machic-icon-box.php:97 
+#: ../elementor/widgets/machic-icon-list.php:129 
+#: ../elementor/widgets/machic-text-banner.php:186
+msgid "ICON"
+msgstr ""
+
+#: ../elementor/widgets/machic-icon-box.php:104 
+#: ../elementor/widgets/machic-icon-list.php:136 
+#: ../elementor/widgets/machic-text-banner.php:194
+msgid "Icon Size"
+msgstr ""
+
+#: ../elementor/widgets/machic-icon-box.php:114 
+#: ../elementor/widgets/machic-icon-list.php:146 
+#: ../elementor/widgets/machic-text-banner.php:204
+msgid "Icon Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-icon-box.php:123 
+#: ../elementor/widgets/machic-icon-list.php:155
+msgid "Icon Hover Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-icon-list.php:72
+msgid "Enter the title"
+msgstr ""
+
+#: ../elementor/widgets/machic-icon-list.php:89
+msgid "Icon Items"
+msgstr ""
+
+#: ../elementor/widgets/machic-product-carousel.php:33 
+#: ../elementor/widgets/machic-product-grid.php:33 
+#: ../elementor/widgets/machic-product-grid2.php:33
+msgid "Product Type"
+msgstr ""
+
+#: ../elementor/widgets/machic-product-carousel.php:222 
+#: ../elementor/widgets/machic-product-grid.php:190 
+#: ../elementor/widgets/machic-product-grid2.php:190 
+#: ../elementor/widgets/machic-product-list2.php:186
+msgid "Hide Out of Stock?"
+msgstr ""
+
+#: ../elementor/widgets/machic-product-categories.php:33 
+#: ../elementor/widgets/machic-product-categories.php:38
+msgid "Include Category"
+msgstr ""
+
+#: ../elementor/widgets/machic-product-categories.php:51 
+#: ../elementor/widgets/machic-product-categories.php:56
+msgid "Exclude Category"
+msgstr ""
+
+#: ../elementor/widgets/machic-product-categories.php:347
+msgid "All"
+msgstr ""
+
+#: ../elementor/widgets/machic-product-grid.php:49 
+#: ../elementor/widgets/machic-product-grid2.php:49 
+#: ../elementor/widgets/machic-product-list2.php:33
+msgid "Disable Hover?"
+msgstr ""
+
+#: ../elementor/widgets/machic-product-grid.php:228 
+#: ../elementor/widgets/machic-product-grid.php:235
+msgid "Countdown"
+msgstr ""
+
+#: ../elementor/widgets/machic-product-grid.php:256
+msgid "Countdown Title"
+msgstr ""
+
+#: ../elementor/widgets/machic-product-grid.php:391
+msgid "COUNTDOWN"
+msgstr ""
+
+#: ../elementor/widgets/machic-product-grid.php:399
+msgid "Countdown Title Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-product-grid.php:408
+msgid "Countdown Title Hover Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-product-list.php:229
+msgid "PRODUCT TITLE"
+msgstr ""
+
+#: ../elementor/widgets/machic-product-list.php:237
+msgid "Product Title Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-product-list.php:246
+msgid "Product Title Hover Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-product-list2.php:44
+msgid "Enable Countdown?"
+msgstr ""
+
+#: ../elementor/widgets/machic-text-banner.php:52
+msgid "Coupon Code"
+msgstr ""
+
+#: ../elementor/widgets/machic-text-banner.php:82 
+#: ../elementor/widgets/machic-text-banner2.php:101
+msgid "Background Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-text-banner.php:226
+msgid "COUPON CODE"
+msgstr ""
+
+#: ../elementor/widgets/machic-text-banner.php:234
+msgid "Coupon Code Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-text-banner2.php:52
+msgid "Price Text"
+msgstr ""
+
+#: ../elementor/widgets/machic-text-banner2.php:56
+msgid "Add the price text."
+msgstr ""
+
+#: ../elementor/widgets/machic-text-banner2.php:62 ../inc/customizer.php:2622
+msgid "Price"
+msgstr ""
+
+#: ../elementor/widgets/machic-text-banner2.php:136
+msgid "Second Title Background Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-text-banner2.php:145
+msgid "Second Title Background Hover Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-text-banner2.php:163
+msgid "Second Title Hover Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-text-banner2.php:259
+msgid "PRICE TEXT"
+msgstr ""
+
+#: ../elementor/widgets/machic-text-banner2.php:267
+msgid "Price Text Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-text-banner2.php:276
+msgid "Price Text Hover Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-text-banner2.php:315
+msgid "PRICE"
+msgstr ""
+
+#: ../elementor/widgets/machic-text-banner2.php:323
+msgid "Price Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-text-banner2.php:332
+msgid "Price Hover Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-text-banner2.php:341
+msgid "Price Size"
+msgstr ""
+
+#: ../elementor/widgets/machic-text-block.php:95
+msgid "Border Color"
+msgstr ""
+
+#: ../elementor/widgets/machic-vendor-grid.php:32
+msgid "Display Item count"
+msgstr ""
+
+#: ../inc/breadcrumb.php:29
+msgid "Our Blog"
+msgstr ""
+
+#: ../inc/breadcrumb.php:30 ../inc/breadcrumb.php:32 
+#: ../woocommerce-filter/mobile-filter/mobile-filter.php:84
+msgid "Home"
+msgstr ""
+
+#: ../inc/breadcrumb.php:76
+msgid "Category : "
+msgstr ""
+
+#: ../inc/breadcrumb.php:78
+msgid "Tag : "
+msgstr ""
+
+#: ../inc/breadcrumb.php:91
+msgid "Error 404"
+msgstr ""
+
+#: ../inc/breadcrumb.php:93 ../inc/customizer.php:2302 
+#: ../woocommerce-filter/mobile-filter/mobile-filter.php:101
+msgid "Search"
+msgstr ""
+
+#: ../inc/customizer.php:29 ../inc/customizer.php:2030
+msgid "Shop Settings"
+msgstr ""
+
+#: ../inc/customizer.php:30
+msgid "You can customize the shop settings."
+msgstr ""
+
+#: ../inc/customizer.php:34
+msgid "Blog Settings"
+msgstr ""
+
+#: ../inc/customizer.php:35
+msgid "You can customize the blog settings."
+msgstr ""
+
+#: ../inc/customizer.php:39 ../inc/customizer.php:100
+msgid "Header Settings"
+msgstr ""
+
+#: ../inc/customizer.php:40
+msgid "You can customize the header settings."
+msgstr ""
+
+#: ../inc/customizer.php:44 ../inc/customizer.php:2863
+msgid "Main Color"
+msgstr ""
+
+#: ../inc/customizer.php:45 ../inc/customizer.php:2864
+msgid "You can customize the main color."
+msgstr ""
+
+#: ../inc/customizer.php:49
+msgid "Elementor Templates"
+msgstr ""
+
+#: ../inc/customizer.php:50
+msgid "You can customize the elementor templates."
+msgstr ""
+
+#: ../inc/customizer.php:54
+msgid "Map Settings"
+msgstr ""
+
+#: ../inc/customizer.php:55
+msgid "You can customize the map settings."
+msgstr ""
+
+#: ../inc/customizer.php:59 ../inc/customizer.php:3131
+msgid "Footer Settings"
+msgstr ""
+
+#: ../inc/customizer.php:60 ../inc/customizer.php:3144 
+#: ../inc/customizer.php:3149
+msgid "You can customize the footer settings."
+msgstr ""
+
+#: ../inc/customizer.php:101
+msgid "You can customize the header from this panel."
+msgstr ""
+
+#: ../inc/customizer.php:107 ../inc/customizer.php:167
+msgid "Logo"
+msgstr ""
+
+#: ../inc/customizer.php:108
+msgid "You can customize the logo which is on header.."
+msgstr ""
+
+#: ../inc/customizer.php:112
+msgid "Header General"
+msgstr ""
+
+#: ../inc/customizer.php:113
+msgid "You can customize the header."
+msgstr ""
+
+#: ../inc/customizer.php:117
+msgid "Header Products Tab"
+msgstr ""
+
+#: ../inc/customizer.php:118
+msgid "You can customize the header products tab."
+msgstr ""
+
+#: ../inc/customizer.php:122
+msgid "Preloader"
+msgstr ""
+
+#: ../inc/customizer.php:123
+msgid "You can customize the loader."
+msgstr ""
+
+#: ../inc/customizer.php:127
+msgid "Header 1 Style"
+msgstr ""
+
+#: ../inc/customizer.php:128 ../inc/customizer.php:133 
+#: ../inc/customizer.php:138 ../inc/customizer.php:143
+msgid "You can customize the style."
+msgstr ""
+
+#: ../inc/customizer.php:132
+msgid "Header 2 Style"
+msgstr ""
+
+#: ../inc/customizer.php:137
+msgid "Header 3 Style"
+msgstr ""
+
+#: ../inc/customizer.php:142
+msgid "Header 4 Style"
+msgstr ""
+
+#: ../inc/customizer.php:168 ../inc/customizer.php:182
+msgid "You can upload a logo."
+msgstr ""
+
+#: ../inc/customizer.php:181
+msgid "Logo White"
+msgstr ""
+
+#: ../inc/customizer.php:195
+msgid "Set Logo Text"
+msgstr ""
+
+#: ../inc/customizer.php:196
+msgid "You can set logo as text."
+msgstr ""
+
+#: ../inc/customizer.php:207
+msgid "Logo Size"
+msgstr ""
+
+#: ../inc/customizer.php:208
+msgid "You can set size of the logo."
+msgstr ""
+
+#: ../inc/customizer.php:231
+msgid "Mobile Logo Size"
+msgstr ""
+
+#: ../inc/customizer.php:232
+msgid "You can set size of the mobil logo."
+msgstr ""
+
+#: ../inc/customizer.php:255
+msgid "Sidebar Logo Size"
+msgstr ""
+
+#: ../inc/customizer.php:256
+msgid "You can set size of the sidebar logo."
+msgstr ""
+
+#: ../inc/customizer.php:296
+msgid "Mobile Sticky Header"
+msgstr ""
+
+#: ../inc/customizer.php:297
+msgid "You can choose status of the header on the mobile."
+msgstr ""
+
+#: ../inc/customizer.php:308
+msgid "Header Search"
+msgstr ""
+
+#: ../inc/customizer.php:309
+msgid "You can choose status of the search on the header."
+msgstr ""
+
+#: ../inc/customizer.php:321
+msgid "Ajax Search Form Search Holder"
+msgstr ""
+
+#: ../inc/customizer.php:322
+msgid "Replace the search bar which is on the search holder."
+msgstr ""
+
+#: ../inc/customizer.php:341
+msgid "Header Cart"
+msgstr ""
+
+#: ../inc/customizer.php:342
+msgid "You can choose status of the mini cart on the header."
+msgstr ""
+
+#: ../inc/customizer.php:353
+msgid "Mini Cart Type"
+msgstr ""
+
+#: ../inc/customizer.php:358
+msgid "Slider"
+msgstr ""
+
+#: ../inc/customizer.php:359
+msgid "Side Cart"
+msgstr ""
+
+#: ../inc/customizer.php:360 ../inc/customizer.php:2131 
+#: ../inc/customizer.php:2301
+msgid "Default"
+msgstr ""
+
+#: ../inc/customizer.php:377
+msgid "Mini Cart Notice"
+msgstr ""
+
+#: ../inc/customizer.php:378
+msgid "You can add a text for the mini cart."
+msgstr ""
+
+#: ../inc/customizer.php:398
+msgid "Account Icon / Login"
+msgstr ""
+
+#: ../inc/customizer.php:399
+msgid "Disable or Enable User Login/Signup on the header."
+msgstr ""
+
+#: ../inc/customizer.php:410 
+#: ../woocommerce-filter/mobile-filter/mobile-filter.php:109
+msgid "Wishlist"
+msgstr ""
+
+#: ../inc/customizer.php:411
+msgid "Disable or Enable wishlist on the header."
+msgstr ""
+
+#: ../inc/customizer.php:422
+msgid "Sidebar Menu"
+msgstr ""
+
+#: ../inc/customizer.php:423
+msgid "Disable or Enable Sidebar Menu"
+msgstr ""
+
+#: ../inc/customizer.php:434
+msgid "Disable Collapse on Frontpage"
+msgstr ""
+
+#: ../inc/customizer.php:435
+msgid "Disable or Enable Sidebar Collapse on Home Page."
+msgstr ""
+
+#: ../inc/customizer.php:453
+msgid "Top Header"
+msgstr ""
+
+#: ../inc/customizer.php:454
+msgid "Disable or Enable the top header."
+msgstr ""
+
+#: ../inc/customizer.php:465
+msgid "Products Tab"
+msgstr ""
+
+#: ../inc/customizer.php:466
+msgid "Disable or Enable Products Tab"
+msgstr ""
+
+#: ../inc/customizer.php:478
+msgid "You can add a text for the button."
+msgstr ""
+
+#: ../inc/customizer.php:496
+msgid "Button Subtitle"
+msgstr ""
+
+#: ../inc/customizer.php:497
+msgid "You can add a subtitle for the button."
+msgstr ""
+
+#: ../inc/customizer.php:515
+msgid "Tab Title"
+msgstr ""
+
+#: ../inc/customizer.php:516
+msgid "You can add a title for the tab."
+msgstr ""
+
+#: ../inc/customizer.php:534
+msgid "Tab Subtitle"
+msgstr ""
+
+#: ../inc/customizer.php:535
+msgid "You can add a subtitle for the tab."
+msgstr ""
+
+#: ../inc/customizer.php:607
+msgid "Posts Count"
+msgstr ""
+
+#: ../inc/customizer.php:626
+msgid "Products Tab Background"
+msgstr ""
+
+#: ../inc/customizer.php:627 ../inc/customizer.php:831 
+#: ../inc/customizer.php:855 ../inc/customizer.php:1158 
+#: ../inc/customizer.php:1182 ../inc/customizer.php:1497 
+#: ../inc/customizer.php:1521 ../inc/customizer.php:1872 
+#: ../inc/customizer.php:1896 ../inc/customizer.php:3555
+msgid "You can set a color for background."
+msgstr ""
+
+#: ../inc/customizer.php:638
+msgid "Tab Title Font Color"
+msgstr ""
+
+#: ../inc/customizer.php:639 ../inc/customizer.php:651 
+#: ../inc/customizer.php:663 ../inc/customizer.php:675 
+#: ../inc/customizer.php:711 ../inc/customizer.php:1002 
+#: ../inc/customizer.php:1329 ../inc/customizer.php:1353 
+#: ../inc/customizer.php:1365 ../inc/customizer.php:1668 
+#: ../inc/customizer.php:1692 ../inc/customizer.php:1704 
+#: ../inc/customizer.php:3257 ../inc/customizer.php:3269 
+#: ../inc/customizer.php:3281 ../inc/customizer.php:3293 
+#: ../inc/customizer.php:3305 ../inc/customizer.php:3317 
+#: ../inc/customizer.php:3567
+msgid "You can set a color for  color."
+msgstr ""
+
+#: ../inc/customizer.php:650
+msgid "Tab Title Font Hover Color"
+msgstr ""
+
+#: ../inc/customizer.php:662
+msgid "Tab Subtitle Font Color"
+msgstr ""
+
+#: ../inc/customizer.php:674
+msgid "Tab Subtitle Font Hover Color"
+msgstr ""
+
+#: ../inc/customizer.php:685
+msgid "Enable Loader"
+msgstr ""
+
+#: ../inc/customizer.php:686
+msgid "Disable or Enable the loader."
+msgstr ""
+
+#: ../inc/customizer.php:698 ../inc/customizer.php:989 
+#: ../inc/customizer.php:1316 ../inc/customizer.php:1655
+msgid "Top Header Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:699 ../inc/customizer.php:735 
+#: ../inc/customizer.php:747 ../inc/customizer.php:990 
+#: ../inc/customizer.php:1026 ../inc/customizer.php:1038 
+#: ../inc/customizer.php:1122 ../inc/customizer.php:1317 
+#: ../inc/customizer.php:1377 ../inc/customizer.php:1389 
+#: ../inc/customizer.php:1656 ../inc/customizer.php:1716 
+#: ../inc/customizer.php:1728 ../inc/customizer.php:1836 
+#: ../inc/customizer.php:3245 ../inc/customizer.php:3471 
+#: ../inc/customizer.php:3531
+msgid "You can set a color for  background."
+msgstr ""
+
+#: ../inc/customizer.php:710 ../inc/customizer.php:1001 
+#: ../inc/customizer.php:1328 ../inc/customizer.php:1667
+msgid "Top Header Font Color"
+msgstr ""
+
+#: ../inc/customizer.php:722 ../inc/customizer.php:1013 
+#: ../inc/customizer.php:1340 ../inc/customizer.php:1679
+msgid "Top Header Font Hover Color"
+msgstr ""
+
+#: ../inc/customizer.php:723 ../inc/customizer.php:1014 
+#: ../inc/customizer.php:1341 ../inc/customizer.php:1680
+msgid "You can set a color for hover color."
+msgstr ""
+
+#: ../inc/customizer.php:734 ../inc/customizer.php:1025 
+#: ../inc/customizer.php:1376 ../inc/customizer.php:1715
+msgid "Header Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:746 ../inc/customizer.php:1037 
+#: ../inc/customizer.php:1388 ../inc/customizer.php:1727
+msgid "Header Search Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:758 ../inc/customizer.php:1049 
+#: ../inc/customizer.php:1400 ../inc/customizer.php:1739
+msgid "Header Search Font Color"
+msgstr ""
+
+#: ../inc/customizer.php:759 ../inc/customizer.php:771 
+#: ../inc/customizer.php:795 ../inc/customizer.php:879 
+#: ../inc/customizer.php:891 ../inc/customizer.php:1050 
+#: ../inc/customizer.php:1062 ../inc/customizer.php:1086 
+#: ../inc/customizer.php:1134 ../inc/customizer.php:1206 
+#: ../inc/customizer.php:1218 ../inc/customizer.php:1401 
+#: ../inc/customizer.php:1413 ../inc/customizer.php:1437 
+#: ../inc/customizer.php:1449 ../inc/customizer.php:1545 
+#: ../inc/customizer.php:1557 ../inc/customizer.php:1740 
+#: ../inc/customizer.php:1752 ../inc/customizer.php:1776 
+#: ../inc/customizer.php:1788 ../inc/customizer.php:1848 
+#: ../inc/customizer.php:1920 ../inc/customizer.php:1932
+msgid "You can set a font color."
+msgstr ""
+
+#: ../inc/customizer.php:770 ../inc/customizer.php:1061 
+#: ../inc/customizer.php:1412 ../inc/customizer.php:1751
+msgid "Header Font Color"
+msgstr ""
+
+#: ../inc/customizer.php:782 ../inc/customizer.php:1073 
+#: ../inc/customizer.php:1424 ../inc/customizer.php:1763
+msgid "Header Font Hover Color"
+msgstr ""
+
+#: ../inc/customizer.php:783 ../inc/customizer.php:1074 
+#: ../inc/customizer.php:1146 ../inc/customizer.php:1425 
+#: ../inc/customizer.php:1461 ../inc/customizer.php:1764 
+#: ../inc/customizer.php:1800 ../inc/customizer.php:1860
+msgid "You can set a font hover color."
+msgstr ""
+
+#: ../inc/customizer.php:794 ../inc/customizer.php:1085 
+#: ../inc/customizer.php:1436 ../inc/customizer.php:1775
+msgid "Header Submenu Title Font Color"
+msgstr ""
+
+#: ../inc/customizer.php:806 ../inc/customizer.php:1097 
+#: ../inc/customizer.php:1472 ../inc/customizer.php:1811
+msgid "Header Icon Color"
+msgstr ""
+
+#: ../inc/customizer.php:807 ../inc/customizer.php:1098 
+#: ../inc/customizer.php:1473 ../inc/customizer.php:1812
+msgid "You can set a icon color."
+msgstr ""
+
+#: ../inc/customizer.php:818 ../inc/customizer.php:1109 
+#: ../inc/customizer.php:1484 ../inc/customizer.php:1823
+msgid "Header Counter Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:819 ../inc/customizer.php:1110 
+#: ../inc/customizer.php:1485 ../inc/customizer.php:1824
+msgid "You can set a counter background."
+msgstr ""
+
+#: ../inc/customizer.php:830 ../inc/customizer.php:1157 
+#: ../inc/customizer.php:1496 ../inc/customizer.php:1871
+msgid "Sidebar Title Background"
+msgstr ""
+
+#: ../inc/customizer.php:842 ../inc/customizer.php:1169 
+#: ../inc/customizer.php:1508 ../inc/customizer.php:1883
+msgid "Sidebar Title Font Color"
+msgstr ""
+
+#: ../inc/customizer.php:843 ../inc/customizer.php:1170 
+#: ../inc/customizer.php:1509 ../inc/customizer.php:1884
+msgid "You can set a font-color."
+msgstr ""
+
+#: ../inc/customizer.php:854 ../inc/customizer.php:1181 
+#: ../inc/customizer.php:1520 ../inc/customizer.php:1895
+msgid "Sidebar Menu Background"
+msgstr ""
+
+#: ../inc/customizer.php:866 ../inc/customizer.php:1193 
+#: ../inc/customizer.php:1532 ../inc/customizer.php:1907
+msgid "Sidebar Menu Border Color"
+msgstr ""
+
+#: ../inc/customizer.php:867 ../inc/customizer.php:1194 
+#: ../inc/customizer.php:1533 ../inc/customizer.php:1908
+msgid "You can set a color for border color."
+msgstr ""
+
+#: ../inc/customizer.php:878 ../inc/customizer.php:1205 
+#: ../inc/customizer.php:1544 ../inc/customizer.php:1919
+msgid "Sidebar Menu Font Color"
+msgstr ""
+
+#: ../inc/customizer.php:890 ../inc/customizer.php:1217 
+#: ../inc/customizer.php:1556 ../inc/customizer.php:1931
+msgid "Sidebar Menu Font Hover Color"
+msgstr ""
+
+#: ../inc/customizer.php:902 ../inc/customizer.php:1229 
+#: ../inc/customizer.php:1568 ../inc/customizer.php:1943
+msgid "Sidebar Menu Subtitle Color"
+msgstr ""
+
+#: ../inc/customizer.php:903 ../inc/customizer.php:1230 
+#: ../inc/customizer.php:1569 ../inc/customizer.php:1944
+msgid "You can set a  font color."
+msgstr ""
+
+#: ../inc/customizer.php:913 ../inc/customizer.php:1240 
+#: ../inc/customizer.php:1579 ../inc/customizer.php:1954
+msgid "Top Header Typography"
+msgstr ""
+
+#: ../inc/customizer.php:938 ../inc/customizer.php:1265 
+#: ../inc/customizer.php:1604 ../inc/customizer.php:1979
+msgid "Header Typography"
+msgstr ""
+
+#: ../inc/customizer.php:963 ../inc/customizer.php:1290 
+#: ../inc/customizer.php:1629 ../inc/customizer.php:2004
+msgid "Sidebar Menu Typography"
+msgstr ""
+
+#: ../inc/customizer.php:1121 ../inc/customizer.php:1835
+msgid "Header Search Column Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:1133 ../inc/customizer.php:1847
+msgid "Header Search Column Font Color"
+msgstr ""
+
+#: ../inc/customizer.php:1145 ../inc/customizer.php:1859
+msgid "Header Search Column Font Hover Color"
+msgstr ""
+
+#: ../inc/customizer.php:1352 ../inc/customizer.php:1691
+msgid "Top Header Subtitle Font Color"
+msgstr ""
+
+#: ../inc/customizer.php:1364 ../inc/customizer.php:1703
+msgid "Top Header Subtitle Font Hover Color"
+msgstr ""
+
+#: ../inc/customizer.php:1448 ../inc/customizer.php:1787
+msgid "Header Submenu Subtitle Font Color"
+msgstr ""
+
+#: ../inc/customizer.php:1460 ../inc/customizer.php:1799
+msgid "Header Submenu Subtitle Font Hover Color"
+msgstr ""
+
+#: ../inc/customizer.php:2031
+msgid "You can customize the shop from this panel."
+msgstr ""
+
+#: ../inc/customizer.php:2037
+msgid "General"
+msgstr ""
+
+#: ../inc/customizer.php:2038
+msgid "You can customize shop settings."
+msgstr ""
+
+#: ../inc/customizer.php:2042
+msgid "Product Detail"
+msgstr ""
+
+#: ../inc/customizer.php:2043
+msgid "You can customize the product single settings."
+msgstr ""
+
+#: ../inc/customizer.php:2048
+msgid "You can customize the banner."
+msgstr ""
+
+#: ../inc/customizer.php:2052
+msgid "Mobile Bottom Menu Style "
+msgstr ""
+
+#: ../inc/customizer.php:2053
+msgid "You can customize the mobile menu."
+msgstr ""
+
+#: ../inc/customizer.php:2077 ../inc/customizer.php:2845
+msgid "Layout"
+msgstr ""
+
+#: ../inc/customizer.php:2078
+msgid "You can choose a layout for the shop."
+msgstr ""
+
+#: ../inc/customizer.php:2082 ../inc/customizer.php:2850
+msgid "Left Sidebar"
+msgstr ""
+
+#: ../inc/customizer.php:2083 ../inc/customizer.php:2851
+msgid "Full Width"
+msgstr ""
+
+#: ../inc/customizer.php:2084 ../inc/customizer.php:2852
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../inc/customizer.php:2094
+msgid "Shop Page Width"
+msgstr ""
+
+#: ../inc/customizer.php:2095
+msgid "You can choose a layout for the shop page."
+msgstr ""
+
+#: ../inc/customizer.php:2099
+msgid "Boxed"
+msgstr ""
+
+#: ../inc/customizer.php:2100
+msgid "Wide"
+msgstr ""
+
+#: ../inc/customizer.php:2109
+msgid "Shop Product Box Type"
+msgstr ""
+
+#: ../inc/customizer.php:2126
+msgid "Pagination Type"
+msgstr ""
+
+#: ../inc/customizer.php:2132 ../woocommerce-filter/load-more/load-more.php:11
+msgid "Load More"
+msgstr ""
+
+#: ../inc/customizer.php:2133
+msgid "Infinite"
+msgstr ""
+
+#: ../inc/customizer.php:2143
+msgid "Product Gallery"
+msgstr ""
+
+#: ../inc/customizer.php:2144
+msgid "Disable or Enable gallery on the product box."
+msgstr ""
+
+#: ../inc/customizer.php:2155
+msgid "Ajax on Shop Page"
+msgstr ""
+
+#: ../inc/customizer.php:2156
+msgid "Disable or Enable Ajax for the shop page."
+msgstr ""
+
+#: ../inc/customizer.php:2167 
+#: ../woocommerce-filter/recently-viewed/recently-viewed.php:65
+msgid "Recently Viewed Products"
+msgstr ""
+
+#: ../inc/customizer.php:2168
+msgid "Disable or Enable Recently Viewed Products."
+msgstr ""
+
+#: ../inc/customizer.php:2179
+msgid "Grid List View"
+msgstr ""
+
+#: ../inc/customizer.php:2180
+msgid "Disable or Enable grid list view on shop page."
+msgstr ""
+
+#: ../inc/customizer.php:2191
+msgid "Perpage View"
+msgstr ""
+
+#: ../inc/customizer.php:2192
+msgid "Disable or Enable perpage view on shop page."
+msgstr ""
+
+#: ../inc/customizer.php:2203
+msgid "Quick View Button"
+msgstr ""
+
+#: ../inc/customizer.php:2204
+msgid "You can choose status of the quick view button."
+msgstr ""
+
+#: ../inc/customizer.php:2215
+msgid "Custom Wishlist Button"
+msgstr ""
+
+#: ../inc/customizer.php:2216
+msgid "You can choose status of the wishlist button."
+msgstr ""
+
+#: ../inc/customizer.php:2227
+msgid "Compare"
+msgstr ""
+
+#: ../inc/customizer.php:2228
+msgid "You can choose status of the compare button."
+msgstr ""
+
+#: ../inc/customizer.php:2239
+msgid "Ajax Notice"
+msgstr ""
+
+#: ../inc/customizer.php:2240
+msgid "You can choose status of the ajax notice feature."
+msgstr ""
+
+#: ../inc/customizer.php:2251
+msgid "Mobile Bottom Menu"
+msgstr ""
+
+#: ../inc/customizer.php:2252
+msgid "Disable or Enable the bottom menu on mobile."
+msgstr ""
+
+#: ../inc/customizer.php:2263 ../inc/customizer.php:2284
+msgid "Mobile Bottom Menu Edit"
+msgstr ""
+
+#: ../inc/customizer.php:2264 ../inc/customizer.php:2285
+msgid "Edit the mobile bottom menu."
+msgstr ""
+
+#: ../inc/customizer.php:2298
+msgid "You can select a type"
+msgstr ""
+
+#: ../inc/customizer.php:2303 
+#: ../woocommerce-filter/mobile-filter/mobile-filter.php:93
+msgid "Filter"
+msgstr ""
+
+#: ../inc/customizer.php:2304
+msgid "category"
+msgstr ""
+
+#: ../inc/customizer.php:2311
+msgid "You can set an icon. for example; \"store\""
+msgstr ""
+
+#: ../inc/customizer.php:2315
+msgid " Text"
+msgstr ""
+
+#: ../inc/customizer.php:2316
+msgid "You can enter a text."
+msgstr ""
+
+#: ../inc/customizer.php:2320 ../inc/customizer.php:3389
+msgid "URL"
+msgstr ""
+
+#: ../inc/customizer.php:2321 ../inc/customizer.php:3390
+msgid "You can set url for the item."
+msgstr ""
+
+#: ../inc/customizer.php:2333
+msgid "Catalog Mode"
+msgstr ""
+
+#: ../inc/customizer.php:2334
+msgid "Disable Add to Cart button on the shop page."
+msgstr ""
+
+#: ../inc/customizer.php:2345
+msgid "Stock Quantity"
+msgstr ""
+
+#: ../inc/customizer.php:2346
+msgid "Show stock quantity on the label."
+msgstr ""
+
+#: ../inc/customizer.php:2357
+msgid "Min/Max Quantity"
+msgstr ""
+
+#: ../inc/customizer.php:2358
+msgid "Enable the additional quantity setting fields in product detail page."
+msgstr ""
+
+#: ../inc/customizer.php:2369
+msgid "Category Desc After Content"
+msgstr ""
+
+#: ../inc/customizer.php:2370
+msgid "Add the category description after the products."
+msgstr ""
+
+#: ../inc/customizer.php:2381
+msgid "Min Order Amount"
+msgstr ""
+
+#: ../inc/customizer.php:2382
+msgid "Enable Min Order Amount."
+msgstr ""
+
+#: ../inc/customizer.php:2393
+msgid "Min Order Value"
+msgstr ""
+
+#: ../inc/customizer.php:2394
+msgid "Set amount to specify a minimum order value."
+msgstr ""
+
+#: ../inc/customizer.php:2412
+msgid "Product Image Size"
+msgstr ""
+
+#: ../inc/customizer.php:2413
+msgid "You can set size of the product image for the shop page."
+msgstr ""
+
+#: ../inc/customizer.php:2427
+msgid "Image Column"
+msgstr ""
+
+#: ../inc/customizer.php:2444
+msgid "Image Zoom"
+msgstr ""
+
+#: ../inc/customizer.php:2455
+msgid "Ajax Add to Cart"
+msgstr ""
+
+#: ../inc/customizer.php:2466
+msgid "Product360 View"
+msgstr ""
+
+#: ../inc/customizer.php:2477 ../woocommerce-filter/woocommerce-filter.php:383
+msgid "Order on WhatsApp"
+msgstr ""
+
+#: ../inc/customizer.php:2488
+msgid "Move Review Tab"
+msgstr ""
+
+#: ../inc/customizer.php:2489
+msgid "Move the review tab out of tabs"
+msgstr ""
+
+#: ../inc/customizer.php:2500
+msgid "Buy Now Button"
+msgstr ""
+
+#: ../inc/customizer.php:2501
+msgid "Disable or Enable Buy Now button."
+msgstr ""
+
+#: ../inc/customizer.php:2512
+msgid "WhatsApp Number"
+msgstr ""
+
+#: ../inc/customizer.php:2513
+msgid "You can add a phone number for order on WhatsApp."
+msgstr ""
+
+#: ../inc/customizer.php:2531
+msgid "Social Share (Product Detail)"
+msgstr ""
+
+#: ../inc/customizer.php:2546
+msgid "Facebook"
+msgstr ""
+
+#: ../inc/customizer.php:2547
+msgid "Twitter"
+msgstr ""
+
+#: ../inc/customizer.php:2548
+msgid "Pinterest"
+msgstr ""
+
+#: ../inc/customizer.php:2549
+msgid "Linkedin"
+msgstr ""
+
+#: ../inc/customizer.php:2550
+msgid "Whatsapp"
+msgstr ""
+
+#: ../inc/customizer.php:2567
+msgid "Gallery Columns"
+msgstr ""
+
+#: ../inc/customizer.php:2571
+msgid "8 Columns"
+msgstr ""
+
+#: ../inc/customizer.php:2572
+msgid "7 Columns"
+msgstr ""
+
+#: ../inc/customizer.php:2587
+msgid "Related Post Column"
+msgstr ""
+
+#: ../inc/customizer.php:2588
+msgid "You can control related post column with this option."
+msgstr ""
+
+#: ../inc/customizer.php:2606
+msgid "Re-order Product Summary"
+msgstr ""
+
+#: ../inc/customizer.php:2607
+msgid ""
+"Please save the changes and refresh the page once. Live preview is not "
+"available for the option."
+msgstr ""
+
+#: ../inc/customizer.php:2621
+msgid "Rating"
+msgstr ""
+
+#: ../inc/customizer.php:2623
+msgid "Add to Cart"
+msgstr ""
+
+#: ../inc/customizer.php:2624
+msgid "People Added"
+msgstr ""
+
+#: ../inc/customizer.php:2625
+msgid "Meta"
+msgstr ""
+
+#: ../inc/customizer.php:2626
+msgid "Share"
+msgstr ""
+
+#: ../inc/customizer.php:2627
+msgid "Excerpt"
+msgstr ""
+
+#: ../inc/customizer.php:2628
+msgid "Progress Bar"
+msgstr ""
+
+#: ../inc/customizer.php:2629
+msgid "Time Countdown"
+msgstr ""
+
+#: ../inc/customizer.php:2639 ../inc/customizer.php:2714
+msgid "Set Title"
+msgstr ""
+
+#: ../inc/customizer.php:2640 ../inc/customizer.php:2715
+msgid "You can set a title."
+msgstr ""
+
+#: ../inc/customizer.php:2651 ../inc/customizer.php:2720
+msgid "Set Subtitle"
+msgstr ""
+
+#: ../inc/customizer.php:2652 ../inc/customizer.php:2721
+msgid "You can set a subtitle."
+msgstr ""
+
+#: ../inc/customizer.php:2664 ../inc/customizer.php:2727
+msgid "Add a description."
+msgstr ""
+
+#: ../inc/customizer.php:2675
+msgid "Button Text"
+msgstr ""
+
+#: ../inc/customizer.php:2676
+msgid "Set a text for the button"
+msgstr ""
+
+#: ../inc/customizer.php:2687
+msgid "Button URL"
+msgstr ""
+
+#: ../inc/customizer.php:2688
+msgid "Set an url for the button"
+msgstr ""
+
+#: ../inc/customizer.php:2701
+msgid "Shop Banner"
+msgstr ""
+
+#: ../inc/customizer.php:2702
+msgid "You can set banner."
+msgstr ""
+
+#: ../inc/customizer.php:2709 ../inc/customizer.php:3427
+msgid "You can upload an image."
+msgstr ""
+
+#: ../inc/customizer.php:2733
+msgid "Add a regular price."
+msgstr ""
+
+#: ../inc/customizer.php:2744
+msgid "Set URL"
+msgstr ""
+
+#: ../inc/customizer.php:2745
+msgid "Set an url for the banner"
+msgstr ""
+
+#: ../inc/customizer.php:2758
+msgid "Mobile Menu Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:2759
+msgid "You can set a Background."
+msgstr ""
+
+#: ../inc/customizer.php:2770
+msgid "Mobile Menu Icon Color"
+msgstr ""
+
+#: ../inc/customizer.php:2771 ../inc/customizer.php:2783 
+#: ../inc/customizer.php:2795 ../inc/customizer.php:2807
+msgid "You can set a color."
+msgstr ""
+
+#: ../inc/customizer.php:2782
+msgid "Mobile Menu Icon Hover Color"
+msgstr ""
+
+#: ../inc/customizer.php:2794
+msgid "Mobile Menu Font Color"
+msgstr ""
+
+#: ../inc/customizer.php:2806
+msgid "Mobile Menu Font Hover Color"
+msgstr ""
+
+#: ../inc/customizer.php:2817
+msgid "Mobile Menu Font Style"
+msgstr ""
+
+#: ../inc/customizer.php:2846
+msgid "You can choose a layout."
+msgstr ""
+
+#: ../inc/customizer.php:2875
+msgid "Second Color"
+msgstr ""
+
+#: ../inc/customizer.php:2876
+msgid "You can customize the secondary color."
+msgstr ""
+
+#: ../inc/customizer.php:2887
+msgid "Color Link"
+msgstr ""
+
+#: ../inc/customizer.php:2888
+msgid "You can customize the color link."
+msgstr ""
+
+#: ../inc/customizer.php:2899
+msgid "Color Shop Button"
+msgstr ""
+
+#: ../inc/customizer.php:2900 ../inc/customizer.php:2912
+msgid "You can customize the color shop button."
+msgstr ""
+
+#: ../inc/customizer.php:2911
+msgid "Color Shop Button Active"
+msgstr ""
+
+#: ../inc/customizer.php:2923
+msgid "Color Danger"
+msgstr ""
+
+#: ../inc/customizer.php:2924
+msgid "You can customize the color danger."
+msgstr ""
+
+#: ../inc/customizer.php:2935
+msgid "Color Warning"
+msgstr ""
+
+#: ../inc/customizer.php:2936
+msgid "You can customize the color warning."
+msgstr ""
+
+#: ../inc/customizer.php:2947
+msgid "Color Success"
+msgstr ""
+
+#: ../inc/customizer.php:2948
+msgid "You can customize the color success."
+msgstr ""
+
+#: ../inc/customizer.php:2959
+msgid "Color Light"
+msgstr ""
+
+#: ../inc/customizer.php:2960
+msgid "You can customize the color light."
+msgstr ""
+
+#: ../inc/customizer.php:2971 ../inc/customizer.php:3072
+msgid "Before Shop Elementor Template"
+msgstr ""
+
+#: ../inc/customizer.php:2974 ../inc/customizer.php:2988 
+#: ../inc/customizer.php:3016
+msgid "Select a template from elementor templates "
+msgstr ""
+
+#: ../inc/customizer.php:2985 ../inc/customizer.php:3080
+msgid "After Shop Elementor Template"
+msgstr ""
+
+#: ../inc/customizer.php:2999 ../inc/customizer.php:3086
+msgid "Before Header Elementor Template"
+msgstr ""
+
+#: ../inc/customizer.php:3002 ../inc/customizer.php:3030 
+#: ../inc/customizer.php:3044 ../inc/customizer.php:3075
+msgid ""
+"Select a template from elementor templates, If you want to show any content "
+"before products "
+msgstr ""
+
+#: ../inc/customizer.php:3013 ../inc/customizer.php:3092
+msgid "After Header Elementor Template"
+msgstr ""
+
+#: ../inc/customizer.php:3027 ../inc/customizer.php:3098
+msgid "Before Footer Elementor Template"
+msgstr ""
+
+#: ../inc/customizer.php:3041
+msgid "After Footer Elementor Templates"
+msgstr ""
+
+#: ../inc/customizer.php:3056
+msgid "Template For Categories"
+msgstr ""
+
+#: ../inc/customizer.php:3057
+msgid "You can set template for each category."
+msgstr ""
+
+#: ../inc/customizer.php:3063
+msgid "Select Category"
+msgstr ""
+
+#: ../inc/customizer.php:3064
+msgid "Set a category"
+msgstr ""
+
+#: ../inc/customizer.php:3104
+msgid "After Footer Elementor Template"
+msgstr ""
+
+#: ../inc/customizer.php:3119
+msgid "Google Map Api key"
+msgstr ""
+
+#: ../inc/customizer.php:3120
+msgid "Add your google map api key"
+msgstr ""
+
+#: ../inc/customizer.php:3132
+msgid "You can customize the footer from this panel."
+msgstr ""
+
+#: ../inc/customizer.php:3138
+msgid "Subscribe"
+msgstr ""
+
+#: ../inc/customizer.php:3139
+msgid "You can customize the subscribe area."
+msgstr ""
+
+#: ../inc/customizer.php:3143
+msgid "Footer General"
+msgstr ""
+
+#: ../inc/customizer.php:3148
+msgid "Footer Style"
+msgstr ""
+
+#: ../inc/customizer.php:3174
+msgid "Subcribe"
+msgstr ""
+
+#: ../inc/customizer.php:3175
+msgid "Disable or Enable subscribe section."
+msgstr ""
+
+#: ../inc/customizer.php:3186
+msgid "Subscribe Form Id."
+msgstr ""
+
+#: ../inc/customizer.php:3187
+msgid "You can find the form id in Dashboard > Mailchimp For Wp > Form."
+msgstr ""
+
+#: ../inc/customizer.php:3206 ../inc/customizer.php:3225
+msgid "You can set text for subscribe section."
+msgstr ""
+
+#: ../inc/customizer.php:3244
+msgid "Subscribe Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:3256
+msgid "Subscribe Title Color"
+msgstr ""
+
+#: ../inc/customizer.php:3268
+msgid "Subscribe Title Hover Color"
+msgstr ""
+
+#: ../inc/customizer.php:3280
+msgid "Subscribe Subtitle Color"
+msgstr ""
+
+#: ../inc/customizer.php:3292
+msgid "Subscribe Subtitle Hover Color"
+msgstr ""
+
+#: ../inc/customizer.php:3304
+msgid "Subscribe Subtitle Strong Color"
+msgstr ""
+
+#: ../inc/customizer.php:3316
+msgid "Subscribe Subtitle Strong Hover Color"
+msgstr ""
+
+#: ../inc/customizer.php:3327
+msgid "Subscribe Title Typography"
+msgstr ""
+
+#: ../inc/customizer.php:3352
+msgid "Subscribe Subtitle Typography"
+msgstr ""
+
+#: ../inc/customizer.php:3377
+msgid "Social List"
+msgstr ""
+
+#: ../inc/customizer.php:3378
+msgid "You can set social icons."
+msgstr ""
+
+#: ../inc/customizer.php:3384
+msgid "You can set an icon. for example; \"facebook\""
+msgstr ""
+
+#: ../inc/customizer.php:3402
+msgid "Footer Tags"
+msgstr ""
+
+#: ../inc/customizer.php:3403
+msgid "Disable or Enable the products tags."
+msgstr ""
+
+#: ../inc/customizer.php:3414
+msgid "Copyright"
+msgstr ""
+
+#: ../inc/customizer.php:3415
+msgid "You can set a copyright text for the footer."
+msgstr ""
+
+#: ../inc/customizer.php:3426
+msgid "Payment Image"
+msgstr ""
+
+#: ../inc/customizer.php:3440
+msgid "Set Payment URL"
+msgstr ""
+
+#: ../inc/customizer.php:3441
+msgid "Set an url for the payment image"
+msgstr ""
+
+#: ../inc/customizer.php:3452
+msgid "Footer Column"
+msgstr ""
+
+#: ../inc/customizer.php:3453
+msgid "You can set footer column."
+msgstr ""
+
+#: ../inc/customizer.php:3470
+msgid "Footer Widget Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:3482
+msgid "Footer Widget Title Color"
+msgstr ""
+
+#: ../inc/customizer.php:3483 ../inc/customizer.php:3495 
+#: ../inc/customizer.php:3507 ../inc/customizer.php:3519 
+#: ../inc/customizer.php:3579 ../inc/customizer.php:3591 
+#: ../inc/customizer.php:3603 ../inc/customizer.php:3615
+msgid "You can set a color for  Color."
+msgstr ""
+
+#: ../inc/customizer.php:3494
+msgid "Footer Widget Title Hover Color"
+msgstr ""
+
+#: ../inc/customizer.php:3506
+msgid "Footer Widget Subtitle Color"
+msgstr ""
+
+#: ../inc/customizer.php:3518
+msgid "Footer Widget Subtitle Hover Color"
+msgstr ""
+
+#: ../inc/customizer.php:3530
+msgid "Footer Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:3542
+msgid "Footer Border Color"
+msgstr ""
+
+#: ../inc/customizer.php:3543
+msgid "You can set a color for  border."
+msgstr ""
+
+#: ../inc/customizer.php:3554
+msgid "Footer Social Icon Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:3566
+msgid "Footer Social Icon Color"
+msgstr ""
+
+#: ../inc/customizer.php:3578
+msgid "Footer Tags Color"
+msgstr ""
+
+#: ../inc/customizer.php:3590
+msgid "Footer Tags Hover Color"
+msgstr ""
+
+#: ../inc/customizer.php:3602
+msgid "Footer Copyright Color"
+msgstr ""
+
+#: ../inc/customizer.php:3614
+msgid "Footer Copyright Hover Color"
+msgstr ""
+
+#: ../inc/customizer.php:3625
+msgid "Footer Tags Typography"
+msgstr ""
+
+#: ../inc/customizer.php:3651
+msgid "Footer Copyright Typography"
+msgstr ""
+
+#: ../widgets/widget-popular-posts.php:7
+msgid "Display the popular posts"
+msgstr ""
+
+#: ../widgets/widget-popular-posts.php:9
+msgid "Machic Popular Posts"
+msgstr ""
+
+#: ../widgets/widget-popular-posts.php:83 
+#: ../woocommerce-filter/widgets/product-categories/widget-product-categories.php:117
+#:  ../woocommerce-filter/widgets/product-status/widget-product-status.php:83
+msgid "Title:"
+msgstr ""
+
+#: ../widgets/widget-popular-posts.php:88
+msgid "Number of items to show:"
+msgstr ""
+
+#: ../woocommerce-filter/woocommerce-filter.php:169
+msgid "Clear filters"
+msgstr ""
+
+#: ../woocommerce-filter/woocommerce-filter.php:195 
+#: ../woocommerce-filter/widgets/product-status/widget-product-status.php:47
+msgid "In Stock"
+msgstr ""
+
+#: ../woocommerce-filter/woocommerce-filter.php:199 
+#: ../woocommerce-filter/widgets/product-status/widget-product-status.php:54
+msgid "On Sale"
+msgstr ""
+
+#: ../woocommerce-filter/buy-now/buy-now.php:16
+msgid "Buy Now"
+msgstr ""
+
+#: ../woocommerce-filter/grid-list/grid-list-view.php:19 
+#: ../woocommerce-filter/grid-list/grid-list-view.php:68
+msgid "Filter Products"
+msgstr ""
+
+#: ../woocommerce-filter/grid-list/grid-list-view.php:34
+msgid "Show:"
+msgstr ""
+
+#: ../woocommerce-filter/grid-list/grid-list-view.php:42
+msgid "Items"
+msgstr ""
+
+#: ../woocommerce-filter/grid-list/grid-list-view.php:54 
+#: ../woocommerce-filter/grid-list/grid-list-view.php:57
+msgid "Grid Products"
+msgstr ""
+
+#: ../woocommerce-filter/grid-list/grid-list-view.php:55 
+#: ../woocommerce-filter/grid-list/grid-list-view.php:58
+msgid "List Products"
+msgstr ""
+
+#: ../woocommerce-filter/load-more/load-more.php:51 
+#: ../woocommerce-filter/load-more/load-more.php:95
+msgid "No More Products"
+msgstr ""
+
+#: ../woocommerce-filter/min-amount/min-amount.php:19
+#, php-format
+msgid ""
+"Your current order total is %s - you must have an order with a minimum of %s "
+"to place your order "
+msgstr ""
+
+#: ../woocommerce-filter/min-amount/min-amount.php:28
+#, php-format
+msgid ""
+"Your current order total is %s - you must have an order with a minimum of %s "
+"to place your order"
+msgstr ""
+
+#: ../woocommerce-filter/minmax-quantity/minmax-quantity.php:21
+msgid "Quantity Settings"
+msgstr ""
+
+#: ../woocommerce-filter/minmax-quantity/minmax-quantity.php:23
+msgid "Enable this to show and enable the additional quantity setting fields."
+msgstr ""
+
+#: ../woocommerce-filter/minmax-quantity/minmax-quantity.php:30
+msgid "Minimum Quantity"
+msgstr ""
+
+#: ../woocommerce-filter/minmax-quantity/minmax-quantity.php:33
+msgid "Set a minimum allowed quantity limit (a number greater than 0)."
+msgstr ""
+
+#: ../woocommerce-filter/minmax-quantity/minmax-quantity.php:38
+msgid "Maximum Quantity"
+msgstr ""
+
+#: ../woocommerce-filter/minmax-quantity/minmax-quantity.php:41
+msgid "Set the maximum allowed quantity limit (a number greater than 0)."
+msgstr ""
+
+#: ../woocommerce-filter/minmax-quantity/minmax-quantity.php:46
+msgid "Quantity Step"
+msgstr ""
+
+#: ../woocommerce-filter/minmax-quantity/minmax-quantity.php:49
+msgid "Optional. Set quantity step (a number greater than 0)."
+msgstr ""
+
+#: ../woocommerce-filter/mobile-filter/mobile-filter.php:79
+msgid "Store"
+msgstr ""
+
+#: ../woocommerce-filter/mobile-filter/mobile-filter.php:117
+msgid "Account"
+msgstr ""
+
+#: ../woocommerce-filter/mobile-filter/mobile-filter.php:127
+msgid "Categories"
+msgstr ""
+
+#: ../woocommerce-filter/product-data/product-data-video.php:15
+msgid "Video"
+msgstr ""
+
+#: ../woocommerce-filter/product-data/product-data-video.php:28
+msgid "Video URL"
+msgstr ""
+
+#: ../woocommerce-filter/product-data/product-data-video.php:31
+msgid "Enter a youtube or a vimeo video url for the single product."
+msgstr ""
+
+#: ../woocommerce-filter/product-data/product-data-video.php:62
+msgid "Watch video"
+msgstr ""
+
+#: ../woocommerce-filter/product360/product360.php:27
+msgid "Product 360 View"
+msgstr ""
+
+#: ../woocommerce-filter/product360/product360.php:70 
+#: ../woocommerce-filter/product360/product360.php:90
+msgid "Delete image"
+msgstr ""
+
+#: ../woocommerce-filter/product360/product360.php:70 
+#: ../woocommerce-filter/product360/product360.php:90
+msgid "Delete"
+msgstr ""
+
+#: ../woocommerce-filter/product360/product360.php:90
+msgid "Add Images to Product 360 view Gallery"
+msgstr ""
+
+#: ../woocommerce-filter/product360/product360.php:90
+msgid "Add to gallery"
+msgstr ""
+
+#: ../woocommerce-filter/product360/product360.php:90
+msgid "Add product 360 view gallery images"
+msgstr ""
+
+#: ../woocommerce-filter/product360/product360.php:161
+msgid "360 product view"
+msgstr ""
+
+#: ../woocommerce-filter/recently-viewed/recently-viewed.php:74
+msgid "No products found"
+msgstr ""
+
+#: ../woocommerce-filter/side-cart/side-cart.php:18
+msgid "Shopping Cart"
+msgstr ""
+
+#: ../woocommerce-filter/widgets/product-categories/widget-product-categories.php:8
+msgid "For Main Shop Page."
+msgstr ""
+
+#: ../woocommerce-filter/widgets/product-categories/widget-product-categories.php:10
+msgid "Machic Product Categories"
+msgstr ""
+
+#: ../woocommerce-filter/widgets/product-categories/widget-product-categories.php:122
+msgid "Exclude id:"
+msgstr ""
+
+#: ../woocommerce-filter/widgets/product-status/widget-product-status.php:7
+msgid "For Product Archive Page."
+msgstr ""
+
+#: ../woocommerce-filter/widgets/product-status/widget-product-status.php:9
+msgid "Machic Product Status"
+msgstr ""
